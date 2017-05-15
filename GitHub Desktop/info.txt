@@ -1,0 +1,5 @@
+Main Page - URL:
+https://desktop.github.com/
+
+Download GitHub Desktop (Windows 7 or later) - URL:
+https://github-windows.s3.amazonaws.com/GitHubSetup.exe
