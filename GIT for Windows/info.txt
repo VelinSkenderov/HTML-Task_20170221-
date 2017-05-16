@@ -1,0 +1,31 @@
+Main Page - URL:
+https://git-scm.com/download/win
+
+Downloading Git
+
+Your download is starting...
+
+You are downloading the latest (2.12.2) 64-bit version of Git for Windows. This is the most recent maintained build 
+(https://git-for-windows.github.io/). It was released 4 days ago, on 2017-03-27.
+
+If your download hasn't started, click here to download manually:
+https://github.com/git-for-windows/git/releases/download/v2.12.2.windows.1/Git-2.12.2-64-bit.exe
+
+Other Git for Windows downloads
+Git for Windows Setup
+
+32-bit Git for Windows Setup:
+https://github.com/git-for-windows/git/releases/download/v2.12.2.windows.1/Git-2.12.2-32-bit.exe
+
+64-bit Git for Windows Setup:
+https://github.com/git-for-windows/git/releases/download/v2.12.2.windows.1/Git-2.12.2-64-bit.exe
+
+Git for Windows Portable ("thumbdrive edition")
+
+32-bit Git for Windows Portable:
+https://github.com/git-for-windows/git/releases/download/v2.12.2.windows.1/PortableGit-2.12.2-32-bit.7z.exe
+
+64-bit Git for Windows Portable:
+https://github.com/git-for-windows/git/releases/download/v2.12.2.windows.1/PortableGit-2.12.2-64-bit.7z.exe
+
+The current source code release is version 2.12.2. If you want the newer version, you can build it from the source code.
