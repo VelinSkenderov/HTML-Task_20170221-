@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+      <meta charset="utf-8" />
+	  <title>CheckBoxes and RadioButtons</title>
+    </head>
+    <body>
+	  <div>
+	    <iframe src="http://telerikacademy.com/" height="200" width="300" />
+	  </div>
+	  <form method="GET" action="./(2017.03.27) 02. Results.html">
+	    <h3>Log-in Form</h3>
+		<div>
+		  <input type="range" min="0" max="255" value="50" />
+		  <input type="url" />
+		</div>
+		<br>
+		<fieldset>
+		  <legend>Personal Data</legend>
+		  <input name="UserName" type="text" placeholder="Enter UserName" autofocus="autofocus" tabindex="1" />
+		  <input name="Password" type="password" placeholder="Enter Password" />
+		</fieldset>
+		<fieldset>
+		  <legend>Fruits</legend>
+		  <input type="checkbox" name="fruit" value="apple" tabindex="2" />
+		  <input type="checkbox" name="fruit" value="pear" tabindex="2" />
+		  <input type="checkbox" name="fruit" value="orange" tabindex="2" />
+		</fieldset>
+		<div>
+		  <label>
+		    <span>Male</span>
+		    <input type="radio" name="gender" value="Male" tabindex="3" />
+		  </label>
+		  <label for="female-gender">Female</label>
+		  <input id="female-gender" type="radio" name="gender" value="Female" />
+		  <label for="other-gender">Other</label>
+		  <input id="other-gender" type="radio" name="gender" value="Other" />
+		  <input type="radio" name="city" value="Sofia" />
+		  <input type="radio" name="city" value="Bourgas" />
+		</div>
+		<br>
+		<div>
+		  <select name="City">
+		    <option value="1">Sofia</option>
+			<option value="Plovdiv" selected>Plovdiv</option>
+			<option value="3">Varna></option>
+		  </select>
+		</div>
+		<br>
+		<div>
+		  <input type="reset" value="Reset" title="Reset Button" />
+		  <input type="image" src="../../GIFs/'Submit' Button.gif" title="Submit Button"/>
+		  <input type="button" value="Test Button" title="Test Button" />
+		</div>
+		<br>
+		<div>
+		  <label>
+		    <span>Дата:</span>
+		    <input type="date"/>
+		  </label>
+		</div>
+		<br>
+		<div>
+		  <label>
+		  <span>Час:</span>
+		  <input type="time"/>
+		  </label>
+		</div>
+	  </form>
+	</body>
+  </html>
