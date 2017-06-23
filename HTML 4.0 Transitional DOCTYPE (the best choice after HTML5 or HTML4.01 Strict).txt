@@ -1,2 +1,4 @@
 HTML 4.0 Transitional DOCTYPE is the best choice after HTML5 or HTML4.01 Strict:
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+WHTARWG - WEB HyperText Application Technology Working Group

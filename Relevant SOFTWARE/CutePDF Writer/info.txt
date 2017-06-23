@@ -1,0 +1,61 @@
+Main Page - URL:
+http://www.cutepdf.com/Products/CutePDF/writer.asp
+
+Try now  Free Download - http://www.cutepdf.com/download/CuteWriter.exe
+    (Ver. 3.2; 1.56 MB)  
+   
+Try now  Free Converter - http://www.cutepdf.com/download/converter.exe
+  (GPLGS8.15; 5.01 MB)  
+   
+Try now  Get Zipped Setup - http://www.cutepdf.com/download/CuteWriter.zip
+
+FAQs - http://www.cutepdf.com/Support/faq.asp#Writer
+
+Selected as One of the "50 Best free downloads" by Computer Shopper
+
+ 
+Convert to PDF documents on the fly — Free Software
+  
+ 
+Portable Document Format (PDF) is the de facto standard for the secure and reliable distribution and exchange of electronic documents and forms around the world.  CutePDF Writer is the free version of commercial PDF converter software. CutePDF Writer installs itself as a "printer subsystem". This enables virtually any Windows applications (must be able to print) to convert
+to professional quality PDF documents - with just a push of a button!
+  
+ FREE software for commercial and non-commercial use!  No watermarks!  No Popup Web Ads!  No Adware, No Malware! - http://safeweb.norton.com/report/show?url=cutepdf.com
+ 
+
+Have specific and advanced needs above and beyond that of other users?
+ Integrate PDF creation ability into any application, solution, service or terminal server
+ (e.g. Citrix) environment and more.  Custom Redistribution now available! - http://www.cutepdf.com/Products/sdk/pdfwriter.asp
+ 
+
+
+Installation Requirements
+•Supports Microsoft Windows 98/ME/2000/XP/2003/Vista/7/2012/8/8.1/10 (32-bit/64-bit).
+•Requires PS2PDF converter such as Ghostscript (recommended).
+ You can get the free GPL Ghostscript 8.15  here - http://www.cutepdf.com/download/converter.exe.
+  
+
+ GNU Ghostscript is a free open-source interpreter for the PostScript language and the PDF file format.
+ It is distributed under the GNU General Public License - http://www.gnu.org/copyleft/gpl.html.
+ You may obtain the latest version of free GPL Ghostscript and its source code here - http://www.ghostscript.com/download/gsdnld.html.
+   
+ 
+What's New
+•Added support for both 32-bit and 64-bit Windows 8, 8.1, Windows 10. 
+•Added support for both 32-bit and 64-bit GPL GS. 
+•Seamlessly integrate with  CutePDF Professional. - http://www.cutepdf.com/Products/CutePDF/Pro.asp
+•New version works with the latest version of Ghostscript. - http://www.ghostscript.com/
+•To use with other PS2PDF application, please refer to FAQs. - http://www.cutepdf.com/Support/faq.asp#Writer
+•Supports foreign language Windows better.
+•No longer include Ghostscript. You may download and install it separately.
+
+Creating a PDF with this free PDF converter couldn't be easier.
+CNet Power Downloader's weekly pick
+
+Users Love It!
+
+"Cute Indeed"
+This is the blessing I've been waiting for. Very simple. very good!
+  
+"Excellent SIMPLE and PROBLEM FREE"
+I have used many of these kind of Programs even one supplied by Adobe and I can tell you I have had many hardships with those programs. But this little PDF converter has Consistently Printed All that I wanted to Print WITH OUT EVEN 1 ERROR - even for the documents that the Adobe PDF printer crashed on!!! COOL BEANS... COOL COOL COOL COOL

@@ -1,0 +1,3 @@
+
+$j(document).ready(function(){$j('.dropdown p a').click(function(){$j(this).parent().parent().find('ul').toggle();return false;});$j('.dropdown ul li a').click(function(){var text=$j(this).html();$j(this).parent().parent().parent().prev().children().html(text);$j(this).parent().parent().hide();return true;});$j(document).bind('click',function(e){var $clicked=$j(e.target);if(!$clicked.parents().hasClass('dropdown'))
+$j('.dropdown ul').hide();});});

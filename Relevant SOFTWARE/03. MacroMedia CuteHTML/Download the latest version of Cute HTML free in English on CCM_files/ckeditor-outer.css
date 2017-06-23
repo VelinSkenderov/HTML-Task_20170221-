@@ -1,0 +1,102 @@
+[class^='ckeditor_img__'] {
+	clear: both;
+}
+[class^='editor_img__'] {
+	clear: both;
+}
+[class^='ckeditor_img__'] figure {
+	margin: 0px auto !important;
+}
+[class^='editor_img__'] figure {
+	margin: 0px auto !important;
+}
+.ckeditor_img__right {
+	margin: 0px 0px 0.62em 1.25em !important; float: right;
+}
+.editor_img__right {
+	margin: 0px 0px 0.62em 1.25em !important; float: right;
+}
+.ckeditor_img__left {
+	margin: 0px 1.25em 0.62em 0px !important; float: left;
+}
+.editor_img__left {
+	margin: 0px 1.25em 0.62em 0px !important; float: left;
+}
+.ckeditor_img__center {
+	margin: 0px !important; padding: 1.25em 0px;
+}
+.editor_img__center {
+	margin: 0px !important; padding: 1.25em 0px;
+}
+.ckeditor_img__center figure {
+	float: none !important; display: table;
+}
+.editor_img__center figure {
+	float: none !important; display: table;
+}
+.ckeditor_img__center img {
+	margin: 0px auto;
+}
+.editor_img__center img {
+	margin: 0px auto;
+}
+.ckeditor_img__full {
+	width: 100%; clear: both;
+}
+.editor_img__full {
+	width: 100%; clear: both;
+}
+.ckeditor_magiclinks_container {
+	padding: 10px 10px 7px;
+}
+.ckeditor_magiclink {
+	background: rgb(243, 40, 55); margin: 0px 3px 3px 0px !important; padding: 0px 5px; height: 22px; line-height: 20px; vertical-align: middle; display: inline-block;
+}
+.ckeditor_magiclink a {
+	color: rgb(255, 255, 255) !important; text-decoration: none !important; vertical-align: middle; display: inline-block;
+}
+.ckeditor_magiclink a:hover {
+	text-decoration: underline !important;
+}
+.ckeditor_magiclink .ckeditor_magiclink__label:hover {
+	text-decoration: underline;
+}
+.ckeditor_magiclink .ckeditor_magiclink__add {
+	width: 18px; height: 13px; text-indent: -9999em; position: relative;
+}
+.ckeditor_magiclink .ckeditor_magiclink__add::before {
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20393.8%22%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M5.9%20216.6C2%20212.7%200%20206.8%200%20202.8c0-3.9%202-9.8%205.9-13.8l27.6-27.6c7.9-7.9%2019.7-7.9%2027.6%200l2%202%20108.3%20116.2c3.9%203.9%209.8%203.9%2013.8%200L449%205.9h2c7.9-7.9%2019.7-7.9%2027.6%200l27.6%2027.6c7.9%207.9%207.9%2019.7%200%2027.6L191%20387.9c-3.9%203.9-7.9%205.9-13.8%205.9s-9.8-2-13.8-5.9L9.8%20222.5l-3.9-5.9z%22%2F%3E%3C%2Fsvg%3E") no-repeat; top: 1px; width: 15px; height: 13px; right: 0px; display: block; position: absolute; content: "";
+}
+.ckeditor_magiclink .ckeditor_magiclink__delete {
+	width: 16px; height: 13px; text-indent: -9999em; position: relative;
+}
+.ckeditor_magiclink .ckeditor_magiclink__delete::before {
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M329.6%20264.2c-4.7-4.7-4.7-11.7%200-16.4L505%2072.5c4.7-4.7%207-11.7%207-16.4s-2.3-11.7-7-16.4L472.3%207c-4.7-4.7-11.7-7-16.4-7-7%200-11.7%202.3-16.4%207L264.2%20182.4c-4.7%204.7-11.7%204.7-16.4%200L72.5%207c-4.7-4.7-11.7-7-16.4-7S44.4%202.3%2039.7%207L7%2039.7c-4.7%204.7-7%2011.7-7%2016.4s2.3%2011.7%207%2016.4l175.3%20175.3c4.7%204.7%204.7%2011.7%200%2016.4L7%20439.5c-4.7%204.7-7%2011.7-7%2016.4s2.3%2011.7%207%2016.4L39.7%20505c4.7%204.7%2011.7%207%2016.4%207s11.7-2.3%2016.4-7l175.3-175.3c4.7-4.7%2011.7-4.7%2016.4%200L439.5%20505c4.7%204.7%2011.7%207%2016.4%207s11.7-2.3%2016.4-7l32.7-32.7c4.7-4.7%207-11.7%207-16.4s-2.3-11.7-7-16.4L329.6%20264.2z%22%2F%3E%3C%2Fsvg%3E") no-repeat; width: 13px; height: 13px; right: 0px; display: block; position: absolute; content: "";
+}
+.ckeditor_magiclink--all {
+	margin-bottom: 0px !important; display: inline-block;
+}
+.ckeditor_magiclink--delete_all {
+	background: rgb(255, 255, 255); margin: 0px 3px 3px 0px; padding: 0px 5px; border: 2px solid rgb(243, 40, 55); border-image: none; height: 22px; color: rgb(243, 40, 55) !important; line-height: 18px; text-decoration: none !important; vertical-align: middle; display: inline-block; box-sizing: border-box;
+}
+.ckeditor_magiclink--add_all {
+	background: rgb(255, 255, 255); margin: 0px 3px 3px 0px; padding: 0px 5px; border: 2px solid rgb(243, 40, 55); border-image: none; height: 22px; color: rgb(243, 40, 55) !important; line-height: 18px; text-decoration: none !important; vertical-align: middle; display: inline-block; box-sizing: border-box;
+}
+.ckeditor_magiclink--delete_all::before {
+	top: 2px; height: 13px; margin-right: 3px; display: inline-block; position: relative; content: "";
+}
+.ckeditor_magiclink--add_all::before {
+	top: 2px; height: 13px; margin-right: 3px; display: inline-block; position: relative; content: "";
+}
+.ckeditor_magiclink--delete_all:hover span {
+	text-decoration: underline;
+}
+.ckeditor_magiclink--add_all:hover span {
+	text-decoration: underline;
+}
+.ckeditor_magiclink--add_all::before {
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20393.8%22%3E%3Cpath%20fill%3D%22%23F32837%22%20d%3D%22M5.9%20216.6C2%20212.7%200%20206.8%200%20202.8c0-3.9%202-9.8%205.9-13.8l27.6-27.6c7.9-7.9%2019.7-7.9%2027.6%200l2%202%20108.3%20116.2c3.9%203.9%209.8%203.9%2013.8%200L449%205.9h2c7.9-7.9%2019.7-7.9%2027.6%200l27.6%2027.6c7.9%207.9%207.9%2019.7%200%2027.6L191%20387.9c-3.9%203.9-7.9%205.9-13.8%205.9s-9.8-2-13.8-5.9L9.8%20222.5l-3.9-5.9z%22%2F%3E%3C%2Fsvg%3E") no-repeat; width: 15px;
+}
+.ckeditor_magiclink--delete_all::before {
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22%23F32837%22%20d%3D%22M329.6%20264.2c-4.7-4.7-4.7-11.7%200-16.4L505%2072.5c4.7-4.7%207-11.7%207-16.4s-2.3-11.7-7-16.4L472.3%207c-4.7-4.7-11.7-7-16.4-7-7%200-11.7%202.3-16.4%207L264.2%20182.4c-4.7%204.7-11.7%204.7-16.4%200L72.5%207c-4.7-4.7-11.7-7-16.4-7S44.4%202.3%2039.7%207L7%2039.7c-4.7%204.7-7%2011.7-7%2016.4s2.3%2011.7%207%2016.4l175.3%20175.3c4.7%204.7%204.7%2011.7%200%2016.4L7%20439.5c-4.7%204.7-7%2011.7-7%2016.4s2.3%2011.7%207%2016.4L39.7%20505c4.7%204.7%2011.7%207%2016.4%207s11.7-2.3%2016.4-7l175.3-175.3c4.7-4.7%2011.7-4.7%2016.4%200L439.5%20505c4.7%204.7%2011.7%207%2016.4%207s11.7-2.3%2016.4-7l32.7-32.7c4.7-4.7%207-11.7%207-16.4s-2.3-11.7-7-16.4L329.6%20264.2z%22%2F%3E%3C%2Fsvg%3E") no-repeat; width: 13px;
+}
