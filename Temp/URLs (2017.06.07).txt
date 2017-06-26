@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/about
 http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/video - 06:25
 https://www.google.bg/?gfe_rd=cr&ei=8gI1We6wHqfd8AeC6KDoAw&gws_rd=ssl#q=shell+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5+%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&spf=1496646386525
 https://code.visualstudio.com/docs/editor/intellisense
 https://code.visualstudio.com/docs/getstarted/settings - Settings and security
+=======
+http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/about
+http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/video - 06:25
+https://www.google.bg/?gfe_rd=cr&ei=8gI1We6wHqfd8AeC6KDoAw&gws_rd=ssl#q=shell+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5+%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&spf=1496646386525
+https://code.visualstudio.com/docs/editor/intellisense
+https://code.visualstudio.com/docs/getstarted/settings - Settings and security
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72

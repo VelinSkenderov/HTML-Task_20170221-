@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Response-O-Matic:
 http://www.response-o-matic.com/
 
@@ -8,4 +9,16 @@ FormSite.com:
 http://www.formsite.com/
 
 HostedScripts.com:
+=======
+Response-O-Matic:
+http://www.response-o-matic.com/
+
+Responders.com:
+http://www.responders.com/
+
+FormSite.com:
+http://www.formsite.com/
+
+HostedScripts.com:
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72
 http://pages.hostedscripts.com/

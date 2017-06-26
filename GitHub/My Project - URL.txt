@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 https://github.com/VelinSkenderov/HTML-Task_20170221-.git
+=======
+https://github.com/VelinSkenderov/HTML-Task_20170221-.git
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72
 https://github.com/VelinSkenderov/HTML-Task_20170221-

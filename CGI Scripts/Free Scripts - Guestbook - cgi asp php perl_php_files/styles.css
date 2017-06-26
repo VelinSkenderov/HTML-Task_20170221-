@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .note {
 	color: rgb(0, 0, 0); font-family: arial; font-size: 10px;
 }
@@ -97,3 +98,104 @@ body {
 .bordline {
 	margin: 10px auto 0px; border: currentColor; border-image: none; width: 90%; height: 1px; color: rgb(204, 204, 204); background-color: rgb(88, 85, 81);
 }
+=======
+.note {
+	color: rgb(0, 0, 0); font-family: arial; font-size: 10px;
+}
+.note a {
+	color: rgb(0, 0, 0); font-family: arial; font-size: 10px;
+}
+.content {
+	color: rgb(88, 85, 81); font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: none;
+}
+.content2 {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration: none;
+}
+.content3 {
+	color: rgb(88, 85, 81); font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration: none;
+}
+.head {
+	color: rgb(107, 119, 132); font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+.contenthead {
+	color: rgb(88, 85, 81); font-family: Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: bold; text-decoration: none;
+}
+.instruction {
+	color: rgb(225, 136, 20); font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: none;
+}
+.contentsubhead {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; text-decoration: none;
+}
+.search {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: none;
+}
+a.contentlink {
+	color: rgb(255, 255, 255); font-size: 9pt; text-decoration: underline;
+}
+a.errorlink {
+	color: rgb(88, 85, 81); font-size: 7pt; text-decoration: underline;
+}
+a.planlink {
+	color: rgb(255, 255, 255); font-family: verdana; font-size: 9pt; text-decoration: none;
+}
+a.viewplanlink {
+	color: rgb(225, 136, 20); font-family: verdana; font-size: 9pt; text-decoration: none;
+}
+.active {
+	color: rgb(196, 196, 196); font-family: verdana; cursor: hand;
+}
+a:hover {
+	color: rgb(196, 196, 196);
+}
+a.content {
+	color: rgb(0, 0, 128); font-family: Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: none;
+}
+.topnav {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; text-decoration: none;
+}
+a.topnav {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; text-decoration: none;
+}
+.footertext {
+	color: rgb(124, 124, 124); font-family: verdana; font-size: 7pt; text-decoration: none;
+}
+a.footertext {
+	color: rgb(124, 124, 124); font-family: verdana; font-size: 7pt; text-decoration: none;
+}
+.disclaimer {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 7pt; text-decoration: none;
+}
+.leftnav {
+	color: rgb(102, 102, 102); font-family: verdana; font-size: 7pt; font-weight: bold; text-decoration: none;
+}
+.leftnavlink {
+	color: rgb(0, 0, 0); font-family: verdana; font-size: 7pt;
+}
+.bodylink {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 9pt;
+}
+.downloadlink {
+	color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: underline;
+}
+a.leftnavlink {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+.txtstyle {
+	border: 1px solid rgb(209, 138, 41); height: 18px; color: rgb(0, 0, 0); font-size: 8pt;
+}
+.tablebordercolor {
+	padding: 0px; border: 1px solid rgb(203, 203, 205); spacing: 0;
+}
+body {
+	color: rgb(88, 85, 81); font-family: Arial, Helvetica, sans-serif; font-size: 9pt;
+}
+.topvendors {
+	margin: 10px auto; border-collapse: separate; border-spacing: 0px;
+}
+.topvendors td {
+	height: 50px; text-align: center; padding-top: 0px; padding-right: 10px; padding-bottom: 0px !important; padding-left: 5px; vertical-align: middle;
+}
+.bordline {
+	margin: 10px auto 0px; border: currentColor; border-image: none; width: 90%; height: 1px; color: rgb(204, 204, 204); background-color: rgb(88, 85, 81);
+}
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72

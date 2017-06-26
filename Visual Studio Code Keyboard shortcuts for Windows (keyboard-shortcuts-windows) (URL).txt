@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Download - URL:
+=======
+Download - URL:
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf

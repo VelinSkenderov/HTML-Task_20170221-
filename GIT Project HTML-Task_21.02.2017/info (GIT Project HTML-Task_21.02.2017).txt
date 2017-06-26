@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Page - URL:
 https://git.bmsys.eu/projects/new
 
@@ -25,4 +26,33 @@ Download URL:
 https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf
 
 
+=======
+Page - URL:
+https://git.bmsys.eu/projects/new
+
+Project path:
+https://git.bmsys.eu/Velin.Skenderov/
+
+Project name:
+HTML (Task 21.02.2017)
+
+Project description (optional):
+Това са ПЪРВОНАЧАЛНИ налични ми Данни (Инструкции, Експериментален Код и пр.), на база които се опитвам да навляза пълноценно в дебрите на FrontEnd-а (давайки си сметка за Причинно-следствената връзка и взаимно предпоставяне с BackEnd-а).
+
+Visibility Level:
+Private. Project access must be granted explicitly to each user.
+Nota Bene: Системата ми предоставя да избера ЕДИНСТВЕНО тази Опция (измежду: Private, Internal/The project can be cloned by any logged in user. и Public/Тhe project can be cloned without any authentication.)
+Ноте: Some visibility level settings have been restricted by the administrator.
+
+URL:
+https://Velin.Skenderov@git.bmsys.eu/Velin.Skenderov/HTML-Task_21.02.2017.git
+
+
+Pro Git. Everything You Need to Know about It.
+
+Download URL:
+https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf
+
+
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72
  MINGW64 ~

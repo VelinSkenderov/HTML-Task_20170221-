@@ -1,4 +1,5 @@
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDRAC8U4nlsyvZPYQJH7oNkD1kqUN+NYmjEL8lr5sJLChDq2AcCMmu0k9hpRLIkV4IL/tBBxXMKks0iiMy9CPMlT19g4BWS/vtdo9Wq1vwh8K59mSBdnlocetyDp2kXzadzfTjE3ExAo0JxkGingkVRoZF5nXWIkDNeNglTBLPLo6CShr98WkwL+iXUcBFvK4pq6fwCT5Or2GqdzpFskkPsjtPD1O8mzY7f1A0PUqBfIfG1XPnWi7M8Gtc4xgro6PPyjCrEu1qMxDWIYvWgJmJUpa0dG2f95mxsqiHip+prZY4GH4bSj9ejJtSARveHzCX33/bEr+vCVduzGKT9YX2xLGmBgECRqAiXb0dpUzhZPynbCra79mjjTT3rF4O2QEGzCHeygkowAWD/Zx5e6ZacnoReBvey/E4z4qaoP0ejdJykusmkIB2pGx9RIqpbhox9yG8XYVN//E5aTHYL4rzIS6oH7CHH4UZVzyZASIE+Q8Sw7ENUXBsG9JfXtqp2OsufQyReMe3NaXw0pDMdMETwtw5connV2s8NJkiBpB5eFi2VPQy1k8K4Id9myW+ZKHqpqXm8eGkOKPH75cvO1fKGueJVl2CWE09EJefRhL7UzfKovDWIqCADqQel/FCbo8nWFnodn3jsYM5PQe5SaLo+xh6N98sP+Y2wJx5L2jIpVQ== velin.skenderov@bmsys.eu
+<<<<<<< HEAD
 
 Velin.Skenderov@W-VSKENDEROV MINGW64 ~
 $ ssh-keygen
@@ -22,3 +23,28 @@ The key's randomart image is:
 |   o.=.o. .      |
 |   .=oo  .       |
 +----[SHA256]-----+
+=======
+
+Velin.Skenderov@W-VSKENDEROV MINGW64 ~
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Velin.Skenderov/.ssh/id_rsa): SSH_Key-Pair.pub
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your ide.pub.cation has been saved in SSH_Key-PAir
+Your pub.pub.pub.as been saved in SSH_Key-PAir
+The key fingerprint is:
+SHA256:V5ciA0NtEuGZEFZMNiLnwcAp9PxDOzp8m5jkPhfNe3U Velin.Skenderov@W-VSKENDEROV
+The key's randomart image is:
++---[RSA 2048]----+
+| ...o+B*@+       |
+|  .oo=.*o*o    . |
+|   .o o +oo o o  |
+|     o .   + o   |
+|      =oS .      |
+|   . ..oo.  . E  |
+|    = .. . . .   |
+|   o.=.o. .      |
+|   .=oo  .       |
++----[SHA256]-----+
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72

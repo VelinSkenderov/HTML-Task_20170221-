@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The CGI Resource Index:
 http://www.cgi.resourceindex.com/
 
@@ -11,4 +12,19 @@ FreeScripts.com:
 http://www.freescripts.com/
 
 CGI City:
+=======
+The CGI Resource Index:
+http://www.cgi.resourceindex.com/
+
+ScriptSEarch.com:
+http://www.scriptsearch.com/
+
+Matt's Script Archive:
+http://www.scriptarchive.com/
+
+FreeScripts.com:
+http://www.freescripts.com/
+
+CGI City:
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72
 http://www.icthus.net/CGI-City/

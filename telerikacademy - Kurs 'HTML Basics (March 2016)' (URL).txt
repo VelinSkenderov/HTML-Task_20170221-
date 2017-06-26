@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 http://telerikacademy.com/Courses/Courses/Details/324
 
 Web Design and UI Technologies Track:
@@ -30,3 +31,37 @@ C:\Users\Velin.Skenderov\Desktop\new 1 (28.02.2017).html
 
 
 
+=======
+http://telerikacademy.com/Courses/Courses/Details/324
+
+Web Design and UI Technologies Track:
+http://academy.telerik.com/student-courses/web-design-and-ui/about
+
+Êóğñ „HTML oñíîâè“.HTML Basics Course:
+http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/about
+
+HTML îñíîâè - âèäåî óğîöè:
+http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/video
+
+
+Êóğñ "HTML îñíîâè (ìàğò 2016)" - http://telerikacademy.com/Courses/Courses/Details/324
+Âèäåî - http://telerikacademy.com/Courses/LectureResources/Video/8093/%d0%92%d0%b8%d0%b4%d0%b5%d0%be
+Óåá äèçàéí è UI òåõíîëîãèè - ïğîãğàìà,
+HTML îñíîâè - http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals
+Ïğåäñòàâÿíå íà êóğñà - http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/video	1:02:56  
+
+
+https://developer.mozilla.org/en-US/ - Îôèöèàëåí ñàéòà íà Mozilla Development Network -	ñ ïúëíà äîêóìåíòàöèÿ çà HTML, CSS è Java,
+- çà C# - MSDN,
+Äğóã äîáúğ Ñïğàâî÷íèê å: W3Schools
+
+
+http://academy.telerik.com/student-courses/web-design-and-ui/about
+http://academy.telerik.com/student-courses/web-design-and-ui/html-fundamentals/video
+https://en.wikipedia.org/wiki/HTML5
+C:\Users\Velin.Skenderov\Desktop\task-3.html
+C:\Users\Velin.Skenderov\Desktop\new 1 (28.02.2017).html
+
+
+
+>>>>>>> 1203fd4e0d9700d44c96a2346e5d40a074d79d72
