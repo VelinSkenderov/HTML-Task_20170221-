@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Form Example Page</title>
+</head>
+ <body>
+ <form enctype="text/plain" action="mailto:Velin.Skenderov@bmsys.eu" method="post">
+  UserName:
+  <input type="text" name="username" value="" size="12" maxlength="12" title="Enter Your Name" /><br>
+  Password:
+  <input type="password" name="userpass" value="" size="8" maxlength="8" title="Enter Your Password" /><br>
+  What is the nature of your Comment?<br>
+  <input type="radio" name="commnature" value="praise" checked="" />Praise
+  <input type="radio" name="commnature" value="suggestion" />Suggestion
+  <input type="radio" name="commnature" value="problem" />Problem
+  <input type="radio" name="commnature" value="complaint" />Complaint<br>
+  What specifically would you like to comment on:
+  <select name="specificomm">
+  <option value="website">WEB Site</option>
+  <option value="company">Company</option>
+  <option value="products">Products</option>
+  <option value="services">Servisec</option>
+  <option value="other">Other</option>
+  </select><br>
+  Please enter you Comments here:
+  <textarea name="comments" rows="6" cols="60" wrap="" title="Type yor Comments here" ></textarea><br>
+  <input type="checkbox" name="emaillist" checked="" title="Check/uncheck the Box according to your preference" />Uncheck the box in case you don't want to join our e-mail list.<br>
+  Required Additional Options:
+  <input type="checkbox" name="addons" value="sunroof" />Sun roof
+  <input type="checkbox" name="addons" value="alloywhls" />Alloy Wheels
+  <input type="checkbox" name="addons" value="heatseats" />Heated Seats
+  <input type="checkbox" name="addons" value="abs" />ABS
+  <input type="checkbox" name="addons" value="spoiler" />Rear Spoiler<br>
+  <input type="radio" name="size" value="s" />Small
+  <input type="radio" name="size" value="m" checked="" />Medium
+  <input type="radio" name="size" value="l" />Large
+  <input type="radio" name="size" value="xl" />Extra Large<br>
+  Select a Color:
+  <select name="color" size="1">
+  <option value="red">Fire engine Red</option>
+  <option value="yellow">Canary Yellow</option>
+  <option value="blue">Ocean Blue</option>
+  <option value="green">Forest Green</option>
+  <option value="black">Black onyx</option>
+  <option value="gray">Gun metal Gray</option>
+  <option value="white">Pearl White</option>
+  </select><br>
+  How can we get in touch with You?<br>
+  <table>
+    <tr>
+	  <td>Name:</td>
+	  <td><input type="text" name="name" size="40" title="Enter your Name please" /></td>
+	</tr>
+	<tr>
+	  <td>E-mail:</td>
+	  <td><input type="text" name="email" size="40" title="Enter your E-Mail address please" /></td>
+	</tr>
+	<tr>
+	  <td>Phone #:</td>
+	  <td><input type="text" name="phone" size="20" title="Enter your Phone-number please" /></td>
+	</tr>
+	<tr>
+	  <td>Fax #:</td>
+	  <td><input type="text" name="fax" size="20" title="Enter your Fax-number please"/></td>
+	</tr>
+  </table>
+  <input type="checkbox" name="asap" />Please contacr me as soon as possible regarding this feedback.<br>
+  <!-- <input type="submit" value="Place Order" /> -->
+  <!-- <input type="reset" value="Start over" /> -->
+  <!-- <button type="submit" name="submit" value="submit" style="font:18pt Helvetica; background:green">Place Order</button> -->
+  <!-- <button type="reset" name="reset" value="reset" style="font:18pt Helvetica; background:red">Start over</button> -->
+  <button type="submit" name="submit" value="submit" style="font:18pt Helvetica; background:green"><img src="../GIFs/'Submit' Button.gif" title="Submit button" />Place Order</button>
+  <button type="reset" name="reset" value="reset" style="font:18pt Helvetica; background:red"><img src="../GIFs/'Reset the Form' Button.gif" title="Reset button" />Start over</button><br>
+  </form>
+</body>
+</html>
