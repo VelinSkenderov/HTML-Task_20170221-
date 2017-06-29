@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<script>
+  <!-- Hide the script from the old browsers
+  alert('Hello');
+  // Stop hiding the script -->
+</script>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Completed Form</title>
+</head>
+<body>
+  <h2 onmouseover="this.style.color = 'blue';" onclick="alert(window.location);">Това Заглавие става синьо при позициониране на мишката върху реда му</h2>
+    <form enctype="text/plain" action="mailto:Velin.Skenderov@bmsys.eu" method="post">
+	<h3 onclick="this.style.color = 'red';">C'mo-o-o-n, 'n click me - I dare you!</h3>
+	<div onmouseover="this.style.fontSize = '20pt';
+	this.style.color = 'green'">
+	Drag the Mouse over this Notice to see it larger and turned green with envy!
+	</div>
+	  <p>
+	  What is the nature of your Comment?<br>
+	    <input type="radio" name="nature" value="praise" checked="" />Praise
+	    <input type="radio" name="nature" value="suggestion" />Suggestion
+	    <input type="radio" name="nature" value="problem" />Problem
+	    <input type="radio" name="nature" value="comoplaint" />Complaint
+	  </p>
+	  <p>
+	  What specifically would you like to comment on?<br>
+	  <select name="specific">
+	    <option value="website">WEB-Site</option>
+		<option value="company">Company</option>
+		<option value="products">Products</option>
+		<option value="services">Services</option>
+		<option value"other">Other</option>
+	  </select>
+	  </p>
+	  <p>
+	  Please enter your comments below:<br>
+	    <textarea name="comments" rows="6" cols="60" wrap=""></textarea>
+	  </p>
+	  <p>
+	  How can we get in touch with you?
+		<table>
+		  <tr>
+		    <td>Name:</td>
+			<td><input type="text" name="name" size="40"/></td>
+		  </tr>
+		  <tr>
+			<td>E-mail:</td>
+			<td><input type="text" name="email" size="40"/></td>
+		  </tr>
+		  <tr>
+		    <td>Phone #:</td>
+			<td><input type="text" name="phone" size="20"/></td>
+		  </tr>
+		  <tr>
+		    <td>Fax #:</td>
+			<td><input type="text" name="fax" size="20"/></td>
+		  </tr>
+		</table>
+	  </p>
+	  <p>
+	    <input type="checkbox" name="asap"/>Please contact me as soon as possible regarding this feedback.
+	  </p>
+	  <p>
+	    <input type="submit" value="Submit Feedback"/>
+	    <input type="reset" value="Start over"/>
+	  </p>
+	</form>
+</body>
+</html>

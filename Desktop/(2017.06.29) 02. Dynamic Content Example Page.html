@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Dynamic Content Example Page</title>
+</head>
+<body style="background-color: white">
+  <h1 onmouseover="this.style.color='blue'"; onclick="alert(window.location);">Dynamic Content Example Page</h1>
+  <p>
+    Drag the mouse over the pic to see the candle flare up:<br>
+    <img src="../JPGs/Candle Extinguished.jpg"
+	onmouseover="this.src = '../JPGs/Candle Burning.jpg';"
+	onmouseout="this.src = '../JPGs/Candle Extinguished.jpg';">
+	
+  </p>
+  
+  <p style="font-size:14pt"
+  onmouseover="this.innerText = 'Stop it!';"
+  onmouseout="this.innerText = 'Thank you!';">
+  But do NOT drag the mouse over here!
+  </p>
+</body>
+</html>
