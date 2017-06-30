@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Ad Banner Example Page</title>
+  
+  <script>
+  <!-- Hide the script from old browsers
+  var bannerNum = 1;
+  
+  function linkBanner() {
+    window.alert("You just clicked Ad Banner " + bannerNum + ".");
+	}
+
+  function rotateBanner() {
+    if (++bannerNum > 3)
+      bannerNum = 1;
+	banner.src = "Banner" + bannerNum + ".jpg";
+	window.setTimeout('rotateBanner();', 3000);
+	}
+  // Stop hiding the script -->
+  </script>
+</head>
+<body style="background-color:white" 
+onload="windows.setTimeout('rotateBanner();', 3000;')">
+  <h1>Ad Banner Example Page</h1>
+  
+  <p style="text-align: center">
+  <a href="javascript: linkBanner()">
+    <img id="banner" style="border: none" src="../JPGs/Banner1.jpg" />
+  </a>
+  </p>
+</body>
+</html>

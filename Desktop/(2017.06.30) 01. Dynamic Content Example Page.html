@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8">
+  <title>Dynamic Content Example Page</title>
+<head>
+</head>
+<body style="background-color: white">
+  <h1 onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Dynamic Content Example Page</h1>
+  <p style="font-size: 14pt">
+  Drag the Mouse inside/outside the picture to get the candle flare up/down:<br>
+  <img id="candle" src="../JPGs/Candle Extinguished.jpg"
+       onmouseover="this.src='../JPGs/Candle Burning.jpg';"  
+       onmouseout="this.src='../JPGs/Candle Extinguished.jpg';" />
+  </p>
+  <p style="font-size: 14pt"
+     onmouseover="this.innerText = 'Take it out ma-a-an!';"
+	 onmouseout="this.innerText = 'Nice guy you!';">
+     But do NOT drag the Mouse over this row!
+  </p>
+</body>
+</html>

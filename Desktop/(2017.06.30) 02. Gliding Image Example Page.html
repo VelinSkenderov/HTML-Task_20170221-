@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Gliding Image Example Page</title>
+  
+  <script language="JavaScript">
+  <!-- Hide the script from old browsers
+  function StartGlide() {
+    window.setInterval("Glide()", 50);
+  }
+  
+  function Glide() {
+    glider.style.pixelLeft += 5;
+	if (glider.style.pixelLeft >= document.body.offsetWidth)
+	  glider.style.pixelLeft = 0;
+  }
+  // Stop hiding the script -->
+  </script>
+</head>
+
+<body style="background-color:black" onload="StartGlide()">
+  <p>
+  <h1 style="color:white; text-align: center">Gliding Image Example Page</h1>
+  <h3 style="color:white; text-align: center">Watch out MineCraft Steve:</h3>
+  </p>
+    <!-- <img id="candle" style="position:absolute; top:100px; left:0" src="../JPGs/Candle Extinguished.jpg" -->
+	<img id="glider" style="position:absolute; top:100px; left:0" src="../JPGs/Minecraft-steve_3892071.jpg" />
+</body>
+</html>
