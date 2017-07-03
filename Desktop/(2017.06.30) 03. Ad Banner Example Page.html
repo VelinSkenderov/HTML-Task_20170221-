@@ -9,25 +9,33 @@
   var bannerNum = 1;
   
   function linkBanner() {
-    window.alert("You just clicked Ad Banner " + bannerNum + ".");
+    if (bannerNum == 1)
+	  window.location = 'http://people.com/celebrity/';
+	else if (bannerNum == "2")
+	  window.location = 'http://www.imdb.com/title/tt0473107/';
+    else window.alert("Избрахте Ad Banner " + bannerNum + ", който не води към друга Страница.");
 	}
 
-  function rotateBanner() {
+
+  function shiftBanners() {
     if (++bannerNum > 3)
       bannerNum = 1;
-	banner.src = "Banner" + bannerNum + ".jpg";
-	window.setTimeout('rotateBanner();', 3000);
+	banner.src = "../JPGs/Banner" + bannerNum + ".jpg";
+	window.setTimeout('shiftBanners();', 2000);
 	}
   // Stop hiding the script -->
   </script>
 </head>
 <body style="background-color:white" 
-onload="windows.setTimeout('rotateBanner();', 3000;')">
-  <h1>Ad Banner Example Page</h1>
-  
+onload="window.setTimeout('shiftBanners();', 2000);">
+  <h1 style="text-align: center">Примерна Страница с Ad Banner</h1>
+  <p style="text-align: center; font-size: 11pt; color: red">
+  За да продължите, Click-нете върху Banner-а:
+  </p>
   <p style="text-align: center">
-  <a href="javascript: linkBanner()">
-    <img id="banner" style="border: none" src="../JPGs/Banner1.jpg" />
+  Banner: 
+  <a href="javascript: linkBanner()" >
+    <img id="banner" style="border: none" src="../JPGs/Banner1.jpg" title="Води към съответна Страница (при наличие на такава)." />
   </a>
   </p>
 </body>
