@@ -1,0 +1,4 @@
+https://css-tricks.com/snippets/css/transparent-background-images/
+
+
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/owl1.jpg
