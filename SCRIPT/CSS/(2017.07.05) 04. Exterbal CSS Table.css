@@ -1,0 +1,4 @@
+h3 { background:yellow; font:bold 18pt "Times New Roman"; color:red }
+p.question { font: 11pt "Arial"; color: green }
+p.answer { font: bold 10pt italic; color: blue }
+p#copyright { text-align: center; font-size: 8pt }
