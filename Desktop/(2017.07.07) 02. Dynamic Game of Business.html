@@ -1,35 +1,32 @@
 <!DOCTYPE html>
 <html>
+<head>
   <meta charset="utf-8" />
   <title>Dynamic Game of Business</title>
-  <link rel="stylesheet" type="text/css" href="(2017.07.06) 03. The Game of Business - FAQ.css" />
-  <script>
+  <link rel="stylesheet" type="text/css" href="../SCRIPT/CSS/(2017.07.07) 03. Dynamic Game of Business.css" />
+  <script language="JavaScript">
   <!-- Hide the script from old browsers
   var bannerNum = 1;
   
   function linkBanner() {
-    if (bannerNum == 1)
-	  window.location = 'http://people.com/celebrity/';
+	if (bannerNum == "1")
+	  window.location = "https://people.com/celebrity/";
 	else if (bannerNum == "2")
-	  window.location = 'http://www.imdb.com/title/tt0473107/';
-    else window.alert("Избрахте Ad Banner " + bannerNum + ", който не води към друга Страница.");
+	  window.location = "http://www.imdb.comtitle/tt0473107/";
+	else window.alert("Избрахте Ad Banner " + bannerNum + ", който не води към друга Страница.");
 	}
 
-
-  function shiftBanners() {
-    if (++bannerNum > 3)
-      bannerNum = 1;
+	function shiftBanner() {
+	if (++bannerNum > 3)
+	  bannerNum = 1;
 	banner.src = "../JPGs/Banner" + bannerNum + ".jpg";
-	window.setTimeout('shiftBanners();', 2000);
+	window.setTimeout('shiftBanner();', 2000);
 	}
-  // Stop hiding the script -->
+	// Stop hiding the script -->
   </script>
-<head>
-  <meta charset="utf-8" />
-  <title>Dynamic Game of Business</title>
 </head>
-<body onload="window.setTimeout('shiftBanners();', 2000);">
-  <h1 onmouseover="this.style.color='blue'"; onmouseout="this.style.color='red'"; onclick="alert(window.location);"><font face="Times New Roman" title="Динмично заглавие">Dynamic Title</font></h1>
+<body onload="window.setTimeout('shiftBanner()', 2000);">
+  <h1 onmouseover="this.style.color='blue'"; onmouseout="this.style.color='red'"; onclick="alert(window.location);"><font face="Times New Roman" title="Динамично заглавие">Dynamic Title</font></h1>
     <h3 style="text-align: center">Примерен Ad Banner</h3>
 	<p style="text-align: center; font-size: 11pt; color: red">
     За да продължите с Banner-а, Click-нете върху него:
