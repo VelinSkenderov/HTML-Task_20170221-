@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Dynamic Styles Example Page</title>
+  
+  <script language="JavaScript">
+  <!-- Hide the script from old browsera
+  function StartRainbow() {
+  window.setInterval ("Rainbow()", 100);
+  }
+  
+  function Rainbow() {
+    if (rainbow.style.color == 'red')
+	  rainbow.style.color = 'green';
+    else if (rainbow.style.colo == 'green')
+	  rainbow.style.color = 'blue';
+	else if (rainbow.style.color == 'blue')
+	  rainbow.style.color = 'yellow';
+	else if (rainbow.style.color == 'yellow')
+	  rainbow.style.color = 'orange';
+	else if (rainbow.style.color =='orangw')
+	  rainbow.style.color = 'purple';
+	else
+	  rainbow.style.color = 'red';
+  }
+  // Stop hiding the script -->
+  </script>
+</head>
+
+<body style="background-color:white" onload="StartRainbow()">
+  <h1 onmouseover="this.style.color='blue'"; onmouseout="this.style.color='black'"; onclick="alert(window.location);">Dynamic Styles Example Page</h1>
+  <h3 onclick="this.style.color = 'red';">I defy you to click me!</h3>
+  <div onmouseover="this.style.fontSize = '20pt';
+  this.style.color = 'green'">
+  Drag the mouse over this row to see its symbols get larger and turn grey with envy.
+  </div>
+  <div id="rainbow">
+  This text appears in a rainbow of colors.
+  </div>
+  <br>
+  <p>
+  <h3>move the Mouse-Cursor within the picture to lit the candle, and/or outside to extinguish it:</h3>
+  <img src="../JPGs/Candle Extinguished.jpg"
+  onmouseover="this.src = '../JPGs/Candle Burning.jpg';"
+  onmouseout="this.src = '../JPGs/Candle Extinguished.jpg';" />
+  </p>
+  <p style="font-size:14pt"
+  But do not drag the Mouse over here!
+  onmouseover="this.innerText = 'Stop it!';"
+  onmouseout="this.innerText = 'Thank you!';">
+  </p>
+  <p style="font-size: 14pt"
+     onmouseover="this.innerText = 'Take it out ma-a-an!';"
+	 onmouseout="this.innerText = 'Nice guy you!';">
+     But do NOT drag the Mouse over this row!
+  </p>
+</body>
+</html>
