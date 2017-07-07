@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: #ccc;
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, rgba(0, 0, 0, 0) 25%, rgba (0, 0, 0, 0) 50%, rgba (255, 255, 255, 0.2) 50%,
@@ -25,4 +26,33 @@ body {
 	position: absolute;
 	z-index: -1;
 	content: "";
+=======
+body {
+  background-color: #ccc;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, rgba(0, 0, 0, 0) 25%, rgba (0, 0, 0, 0) 50%, rgba (255, 255, 255, 0.2) 50%,
+  rgba (255, 255, 255, 0.2) 75%, rgba (0, 0, 0, 0) 75%, rgba (0, 0, 0, 0));
+  background-size: 50px 50px;
+  }
+
+  div {
+    width: 180px;
+	height: 180px;
+	display: block;
+	position: relative;
+	border: 1px solid #000;
+	madgin: 20px auto;
+	padding: 10px;
+  }
+  
+  div:after {
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/owl1.jpg);
+	opacity: 0.25;
+	width: 200px;
+	height: 200px;
+	top: 0;
+	left: 0;
+	position: absolute;
+	z-index: -1;
+	content: "";
+>>>>>>> af6b41660c26b4eaf256a9db74f63bf9893cda03
   }

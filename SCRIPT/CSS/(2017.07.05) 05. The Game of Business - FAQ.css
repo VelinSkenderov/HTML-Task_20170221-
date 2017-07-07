@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: #0000;
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, rgba(0, 0, 0, 0) 25%, rgba (0, 0, 0, 0) 50%, rgba (255, 255, 255, 0.2) 50%,
@@ -35,4 +36,43 @@ a#google:active { background:yellow; color:red }
 	position: absolute;
 	z-index: -1;
 	content: "";
+=======
+body {
+  background-color: #0000;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, rgba(0, 0, 0, 0) 25%, rgba (0, 0, 0, 0) 50%, rgba (255, 255, 255, 0.2) 50%,
+  rgba (255, 255, 255, 0.2) 75%, rgba (0, 0, 0, 0) 75%, rgba (0, 0, 0, 0));
+  background-size: 50px 50px;
+  }
+
+h1 { font: bold 22pt; color:red }
+h3 { font:bold 18pt "Times New Roman"; color:green }
+h4 { background: red; font: bold 12pt "Times New Roman" italic; color:yellow }
+p.question { font: bold 10pt; color: green }
+p.answer { font-size: 11pt; font-style: italic; color: blue }
+p#copyright { text-align: center; font-size: 8pt }
+a#email:hover { background: green; color: white }
+a#google:hover { background:green; color: white }
+a#google:active { background:yellow; color:red }
+
+  div {
+    width: 180px;
+	height: 180px;
+	display: block;
+	position: relative;
+	border: 1px solid #000;
+	madgin: 20px auto;
+	padding: 10px;
+  }
+  
+  div:after {
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/owl1.jpg);
+	opacity: 0.25;
+	width: 200px;
+	height: 200px;
+	top: 0;
+	left: 0;
+	position: absolute;
+	z-index: -1;
+	content: "";
+>>>>>>> af6b41660c26b4eaf256a9db74f63bf9893cda03
   }
