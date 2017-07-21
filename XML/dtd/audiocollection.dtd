@@ -1,0 +1,15 @@
+<!ELEMENT audiocollection (audio)+>
+
+<!ELEMENT audio (title, artist+, track+, comments?)>
+<!ATTLIST audio
+  type (rock | pop | jazz | classical | coury | soul | hiphop | comedy | other) "rock"
+  review (1 | 2 | 3 | 4 | 5) "3"
+  year CDATA #IMPLIED>
+
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT artist (#PCDATA)>
+
+<!ELEMENT track (#PCDATA)>
+
+<!ELEMENT comments (#PCDATA)>
