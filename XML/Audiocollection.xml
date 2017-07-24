@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE audiocollection SYSTEM "Audiocollection.dtd">
+
+<audiocollection>
+  <!-- This is the Rock section of the collection. -->
+  <audio type="rock" review="5" year="1990">
+    <title>Cake</title>
+	<artist>The Trash Can Sinatras</artist>
+	<track>Obscurity Knocks</track>
+	<track>Maybe I should Drive</track>
+	<track>Thrupenny Tears</track>
+	<track>Even the Odd</track>
+	<track>The Best Man's Fall</track>
+	<track>Circling the Circumference</track>
+	<track>Funky</track>
+	<track>Only Tongue Can Tell</track>
+	<track>You Made Me Feel</track>
+	<track>January's Little Joke</track>
+	<comment>Brilliant first release from the most underrated brand in existenece.</comment>
+  </audio>
+
+	<!-- This is the Jazz section of the collection. -->
+  <audio>
+    <title>Cross-Cross</title>
+	<artist>Thelonious Monk</artist>
+	<track>Hackensack</track>
+	<track>Tea for Two</track>
+	<track>Chriss-Cross</track>
+	<track>Eronel</track>
+	<track>Rhythm-a-Ning</track>
+	<track>Don't Blame Me</track>
+	<track>Think of One</track>
+	<track>Crepuscule with Nellie</track>
+	<track>Pannica</track>
+	<comment>Excellent collection of Monk across five different sessions.</comment>
+  </audio>
+</audiocollection>
