@@ -1,0 +1,31 @@
+body {
+  background-color: #ccc;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, rgba(0, 0, 0, 0) 25%, rgba (0, 0, 0, 0) 50%, rgba (255, 255, 255, 0.2) 50%,
+  rgba (255, 255, 255, 0.2) 75%, rgba (0, 0, 0, 0) 75%, rgba (0, 0, 0, 0));
+  background-size: 50px 50px;
+  }
+
+  div {
+    width: 180pt;
+	height: 180pt;
+	display: block;
+	position: fixed;
+	border: 1pt solid #000;
+	margin: 20pt auto;
+	padding: 10pt;
+   	color: blue;
+	text-align: center;
+	text-shadow: 2pt gray;
+  }
+  
+  div:after {
+    background: url("https://vignette2.wikia.nocookie.net/uncyclopedia/images/1/1a/Microsoft_building_17_front_door.jpg");
+	opacity: 0.25;
+	width: 200pt;
+	height: 200pt;
+	top: 0;
+	left: 0;
+	position: absolute;
+	z-index: -1;
+	content: "";
+  }
