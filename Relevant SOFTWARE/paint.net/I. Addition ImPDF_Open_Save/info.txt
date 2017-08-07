@@ -1,0 +1,21 @@
+http://paint.net.amihotornot.com.au/Features/Effects/Plugins/File_Types/ImPDF/
+
+Paint.NET ImPDF Open Save PDF File Format 
+
+
+File Name:
+  ImPDF.Open.FileType.dll
+  ImPDF.Save.FileType.dll  
+File Version:
+  1.1.0.0
+  1.4.5187.23557  
+Description:
+  PDF Open FileType Plugin
+  PDF Export FileType Plugin  
+Copyright:
+  © 2014 by ComSquare AG, Switzerland  
+Must Install:
+  Ghostscript (http://www.ghostscript.com/download/)
+Download:
+  ZIP - http://paint.net.amihotornot.com.au/Features/Effects/Plugins/File_Types/ImPDF/ImPDF_Open_Save.zip
+  Exe - http://paint.net.amihotornot.com.au/Features/Effects/Plugins/File_Types/ImPDF/ImPDF_Open_Save.exe 
