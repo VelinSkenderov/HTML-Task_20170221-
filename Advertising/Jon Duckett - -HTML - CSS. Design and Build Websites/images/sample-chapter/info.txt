@@ -1,0 +1,12 @@
+http://www.htmlandcssbook.com/images/sample-chapter/
+
+Index of /images/sample-chapter
+
+[PARENTDIR] Parent Directory                   - http://www.htmlandcssbook.com/images/
+[DIR] medium/                 2012-02-02 14:21 - http://www.htmlandcssbook.com/images/sample-chapter/medium/
+[DIR] small/                  2011-11-06 20:25 - http://www.htmlandcssbook.com/images/sample-chapter/small/
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
