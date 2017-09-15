@@ -1,0 +1,12 @@
+http://www.htmlandcssbook.com/images/slideshow/
+
+Index of /images/slideshow
+
+[PARENTDIR] Parent Directory                        - http://www.htmlandcssbook.com/images/
+[IMG] controlls.gif           2011-11-06 18:22  336 - http://www.htmlandcssbook.com/images/slideshow/controlls.gif
+[IMG] preload.gif             2011-11-06 18:22  4.2K - http://www.htmlandcssbook.com/images/slideshow/preload.gif
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
