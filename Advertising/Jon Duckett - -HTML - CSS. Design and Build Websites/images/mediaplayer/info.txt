@@ -1,0 +1,17 @@
+http://www.htmlandcssbook.com/images/mediaplayer/
+
+Index of /images/mediaplayer
+
+[PARENTDIR] Parent Directory - http://www.htmlandcssbook.com/images/
+[IMG] background.png          2011-11-20 19:15  166 - http://www.htmlandcssbook.com/images/mediaplayer/background.png
+[IMG] bigplay.png             2011-11-20 19:16  2.9K - http://www.htmlandcssbook.com/images/mediaplayer/bigplay.png
+[IMG] controls-ted.png        2011-11-20 19:16  2.7K - http://www.htmlandcssbook.com/images/mediaplayer/controls-ted.png
+[IMG] controls-wmp-bg.png     2011-11-20 19:16  2.7K - http://www.htmlandcssbook.com/images/mediaplayer/controls-wmp-bg.png
+[IMG] controls-wmp.png        2011-11-20 19:16  7.6K - http://www.htmlandcssbook.com/images/mediaplayer/controls-wmp.png
+[IMG] controls.png            2011-11-20 19:16  689 - http://www.htmlandcssbook.com/images/mediaplayer/controls.png
+[IMG] loading.gif             2011-11-20 19:16  6.1K - http://www.htmlandcssbook.com/images/mediaplayer/loading.gif
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
