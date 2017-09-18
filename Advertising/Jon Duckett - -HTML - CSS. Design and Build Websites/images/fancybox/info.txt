@@ -1,0 +1,30 @@
+http://www.htmlandcssbook.com/images/fancybox/
+
+Index of /images/fancybox
+
+[PARENTDIR] Parent Directory - http://www.htmlandcssbook.com/images/
+[IMG] blank.gif               2011-11-06 20:46   43 - http://www.htmlandcssbook.com/images/fancybox/blank.gif
+[IMG] fancy_close.png         2011-11-06 20:46  1.5K - http://www.htmlandcssbook.com/images/fancybox/fancy_close.png
+[IMG] fancy_loading.png       2011-11-06 20:46   10K - http://www.htmlandcssbook.com/images/fancybox/fancy_loading.png
+[IMG] fancy_nav_left.png      2011-11-06 20:46  1.4K - http://www.htmlandcssbook.com/images/fancybox/fancy_nav_left.png
+[IMG] fancy_nav_right.png     2011-11-06 20:46  1.4K - http://www.htmlandcssbook.com/images/fancybox/fancy_nav_right.png
+[IMG] fancy_shadow_e.png      2011-11-06 20:46  107 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_e.png
+[IMG] fancy_shadow_n.png      2011-11-06 20:46  106 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_n.png
+[IMG] fancy_shadow_ne.png     2011-11-06 20:46  347 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_ne.png
+[IMG] fancy_shadow_nw.png     2011-11-06 20:46  324 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_nw.png
+[IMG] fancy_shadow_s.png      2011-11-06 20:46  111 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_s.png
+[IMG] fancy_shadow_se.png     2011-11-06 20:47  352 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_se.png
+[IMG] fancy_shadow_sw.png     2011-11-06 20:47  340 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_sw.png
+[IMG] fancy_shadow_w.png      2011-11-06 20:47  103 - http://www.htmlandcssbook.com/images/fancybox/fancy_shadow_w.png
+[IMG] fancy_title_left.png    2011-11-06 20:47  503 - http://www.htmlandcssbook.com/images/fancybox/fancy_title_left.png
+[IMG] fancy_title_main.png    2011-11-06 20:47   96 - http://www.htmlandcssbook.com/images/fancybox/fancy_title_main.png
+[IMG] fancy_title_over.png    2011-11-06 20:47   70 - http://www.htmlandcssbook.com/images/fancybox/fancy_title_over.png
+[IMG] fancy_title_right.png   2011-11-06 20:47  506 - http://www.htmlandcssbook.com/images/fancybox/fancy_title_right.png
+[IMG] fancybox-x.png          2011-11-06 20:47  203 - http://www.htmlandcssbook.com/images/fancybox/fancybox-x.png
+[IMG] fancybox-y.png          2011-11-06 20:47  176 - http://www.htmlandcssbook.com/images/fancybox/fancybox-y.png
+[IMG] fancybox.png            2011-11-06 20:47   15K - http://www.htmlandcssbook.com/images/fancybox/fancybox.png
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
