@@ -1,0 +1,38 @@
+http://www.htmlandcssbook.com/images/sample-chapter/medium/
+
+Index of /images/sample-chapter/medium
+
+[PARENTDIR] Parent Directory                         - http://www.htmlandcssbook.com/images/sample-chapter/
+[IMG] dps-1.jpg               2012-02-02 14:21   54K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-1.jpg
+[IMG] dps-10.jpg              2012-02-02 14:20  119K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-10.jpg
+[IMG] dps-11.jpg              2012-02-02 14:20  127K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-11.jpg
+[IMG] dps-12.jpg              2012-02-02 14:20  220K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-12.jpg
+[IMG] dps-13.jpg              2012-02-02 14:20  159K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-13.jpg
+[IMG] dps-14.jpg              2012-02-02 14:20  123K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-14.jpg
+[IMG] dps-2.jpg               2012-02-02 14:20  126K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-2.jpg
+[IMG] dps-3.jpg               2012-02-02 14:20  172K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-3.jpg
+[IMG] dps-4.jpg               2012-02-02 14:20  128K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-4.jpg
+[IMG] dps-5.jpg               2012-02-02 14:20  174K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-5.jpg
+[IMG] dps-6.jpg               2012-02-02 14:20  184K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-6.jpg
+[IMG] dps-7.jpg               2012-02-02 14:20   92K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-7.jpg
+[IMG] dps-8.jpg               2012-02-02 14:20  119K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-8.jpg
+[IMG] dps-9.jpg               2012-02-02 14:20  129K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps-9.jpg
+[IMG] dps1.gif                2011-11-06 20:25   15K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps1.gif
+[IMG] dps10.jpg               2011-11-06 20:25   68K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps10.jpg
+[IMG] dps11.jpg               2011-11-06 20:25   72K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps11.jpg
+[IMG] dps12.jpg               2011-11-06 20:25  131K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps12.jpg
+[IMG] dps13.jpg               2011-11-06 20:25  102K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps13.jpg
+[IMG] dps14.gif               2011-11-06 20:25   37K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps14.gif
+[IMG] dps2.jpg                2011-11-06 20:25   80K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps2.jpg
+[IMG] dps3.jpg                2011-11-06 20:25  120K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps3.jpg
+[IMG] dps4.jpg                2011-11-06 20:25   85K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps4.jpg
+[IMG] dps5.jpg                2011-11-06 20:25  112K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps5.jpg
+[IMG] dps6.gif                2011-11-06 20:25   73K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps6.gif
+[IMG] dps7.gif                2011-11-06 20:25   33K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps7.gif
+[IMG] dps8.gif                2011-11-06 20:25   46K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps8.gif
+[IMG] dps9.gif                2011-11-06 20:25   56K - http://www.htmlandcssbook.com/images/sample-chapter/medium/dps9.gif
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
