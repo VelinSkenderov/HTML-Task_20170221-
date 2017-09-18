@@ -1,0 +1,24 @@
+http://www.htmlandcssbook.com/images/sample-chapter/small/
+
+Index of /images/sample-chapter/small
+
+[PARENTDIR] Parent Directory                         - http://www.htmlandcssbook.com/images/sample-chapter/
+[IMG] dps1.gif                2011-11-06 20:25  4.2K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps1.gif
+[IMG] dps10.jpg               2011-11-06 20:25  9.2K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps10.jpg
+[IMG] dps11.jpg               2011-11-06 20:25  9.9K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps11.jpg
+[IMG] dps12.jpg               2011-11-06 20:25   14K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps12.jpg
+[IMG] dps13.jpg               2011-11-06 20:25   14K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps13.jpg
+[IMG] dps14.gif               2011-11-06 20:25  6.6K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps14.gif
+[IMG] dps2.jpg                2011-11-06 20:25   12K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps2.jpg
+[IMG] dps3.jpg                2011-11-06 20:25   14K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps3.jpg
+[IMG] dps4.jpg                2011-11-06 20:25   13K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps4.jpg
+[IMG] dps5.jpg                2011-11-06 20:25   15K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps5.jpg
+[IMG] dps6.gif                2011-11-06 20:25   11K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps6.gif
+[IMG] dps7.gif                2011-11-06 20:25  6.9K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps7.gif
+[IMG] dps8.gif                2011-11-06 20:25  8.2K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps8.gif
+[IMG] dps9.gif                2011-11-06 20:25  9.8K - http://www.htmlandcssbook.com/images/sample-chapter/small/dps9.gif
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
