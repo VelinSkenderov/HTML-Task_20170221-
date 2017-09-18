@@ -1,0 +1,18 @@
+http://www.htmlandcssbook.com/images/p/
+
+Index of /images/p
+
+[PARENTDIR] Parent Directory - http://www.htmlandcssbook.com/images/
+[IMG] analog.jpg              2012-02-01 21:31  217K - http://www.htmlandcssbook.com/images/p/analog.jpg
+[IMG] analog.png              2012-02-01 21:03  885K - http://www.htmlandcssbook.com/images/p/analog.png
+[IMG] bikes.jpg               2012-02-01 21:31   86K - http://www.htmlandcssbook.com/images/p/bikes.jpg
+[IMG] bikes.png               2012-02-01 21:03  541K - http://www.htmlandcssbook.com/images/p/bikes.png
+[IMG] color.jpg               2012-02-01 21:31  207K - http://www.htmlandcssbook.com/images/p/color.jpg
+[IMG] color.png               2012-02-01 21:03  895K - http://www.htmlandcssbook.com/images/p/color.png
+[IMG] flowers.jpg             2012-02-01 21:31  220K - http://www.htmlandcssbook.com/images/p/flowers.jpg
+[IMG] flowers.png             2012-02-01 21:03  965K - http://www.htmlandcssbook.com/images/p/flowers.png
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
