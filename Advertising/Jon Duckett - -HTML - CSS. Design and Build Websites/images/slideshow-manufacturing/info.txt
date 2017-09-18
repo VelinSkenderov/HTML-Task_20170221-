@@ -1,0 +1,16 @@
+http://www.htmlandcssbook.com/images/slideshow-manufacturing/
+
+Index of /images/slideshow-manufacturing
+
+[PARENTDIR] Parent Directory                         - 
+[IMG] manufacturing-01.jpg    2012-02-10 13:12   90K - 
+[IMG] manufacturing-02.jpg    2012-02-10 13:12  109K - 
+[IMG] manufacturing-03.jpg    2012-02-10 13:12   42K - 
+[IMG] manufacturing-04.jpg    2012-02-10 13:13  107K - 
+[IMG] manufacturing-05.jpg    2012-02-10 13:12   83K - 
+[DIR] old/                    2012-02-10 13:12       - 
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
