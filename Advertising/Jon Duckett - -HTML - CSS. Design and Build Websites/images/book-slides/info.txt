@@ -1,0 +1,7 @@
+http://www.htmlandcssbook.com/images/book-slides/
+
+Parent Directory - http://www.htmlandcssbook.com/images/
+[IMG] background-position.jpg 2012-02-02 18:27   88K - http://www.htmlandcssbook.com/images/book-slides/background-position.jpg
+[IMG] how-the-web-works.jpg   2011-11-06 16:49   76K - http://www.htmlandcssbook.com/images/book-slides/how-the-web-works.jpg
+[IMG] image-formats.jpg       2012-02-02 18:27   97K - http://www.htmlandcssbook.com/images/book-slides/image-formats.jpg
+[IMG] summary.jpg             2012-02-02 18:27   51K - http://www.htmlandcssbook.com/images/book-slides/summary.jpg
