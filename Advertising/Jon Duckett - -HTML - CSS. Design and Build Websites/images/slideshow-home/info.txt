@@ -1,0 +1,18 @@
+http://www.htmlandcssbook.com/images/slideshow-home/
+
+Index of /images/slideshow-home
+
+[PARENTDIR] Parent Directory                           - http://www.htmlandcssbook.com/images/
+[IMG] a-closer-look-at-tags.jpg 2011-11-07 19:11  177K - http://www.htmlandcssbook.com/images/slideshow-home/a-closer-look-at-tags.jpg
+[IMG] background-position.jpg   2011-11-06 17:54  186K - http://www.htmlandcssbook.com/images/slideshow-home/background-position.jpg
+[IMG] book1.jpg                 2011-11-06 16:49  120K - http://www.htmlandcssbook.com/images/slideshow-home/book1.jpg
+[IMG] css-selectors.jpg         2011-11-07 19:09  169K - http://www.htmlandcssbook.com/images/slideshow-home/css-selectors.jpg
+[IMG] css-selectors.jpg.bk      2011-11-06 17:57  187K - http://www.htmlandcssbook.com/images/slideshow-home/css-selectors.jpg.bk
+[IMG] example-images.jpg        2011-11-09 07:37  231K - http://www.htmlandcssbook.com/images/slideshow-home/example-images.jpg
+[IMG] headings.jpg              2011-11-09 07:37  181K - http://www.htmlandcssbook.com/images/slideshow-home/headings.jpg
+[IMG] triplicate.jpg            2011-11-06 17:55  117K - http://www.htmlandcssbook.com/images/slideshow-home/triplicate.jpg
+
+--------------------------------------------------------------------------------
+
+
+Apache/2.4 Server at www.htmlandcssbook.com Port 80
