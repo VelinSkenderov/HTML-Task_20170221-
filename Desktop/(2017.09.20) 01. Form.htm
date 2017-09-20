@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Form</title>
+</head>
+<body>
+  <form action="http://www.example.com/login/" method="post">
+    <fieldset style="width:260px">
+      <label for="username">Username:</label>
+	  <input type="text" name="username" required="required" /><br />
+	  <label for="password">Password:</label>
+	  <input type="password" name="password" required="required" /><br />
+      <label for="depart">Departure Date:</label>
+	  <input type="date" name="depart" required="required" />
+	</fieldset>
+	<input type="submit" value="Submit" title="Submit button" />
+  </form>
+  <form action="http://www.example.com/profile.php" method="post">
+  <!-- Radio-Buttons: -->
+    <h2>Radio-Buttons:</h2>
+    <p>Please select your favourite genre:
+	  <br />
+	  <input type="radio" name="genre" value="rock" checked="checked" /> Rock
+	  <input type="radio" name="genre" value="pop" /> Pop
+	  <input type="radio" name="genre" value="jazz" /> Jazz
+	</p>
+  <!-- Check-Boxes: -->
+	<h2>Check-Boxes:</h2>
+	<p>Please select your favourite music service(s):
+	  <br />
+	  <input type="checkbox" name="service" value="itunes" checked="checked" /> iTunes
+	  <input type="checkbox" name="service" value="lastfm" /> Last.fm
+	  <input type="checkbox" name="service" value="spotify" /> Spotify
+	</p>
+  <!-- Drop-down List-Box: -->
+    <h2>Drop-down List-Box:</h2>
+	<p>What device do you listen music on?</p>
+	<select name="devices">
+	  <option value="ipod">iPod</option>
+	  <!-- <option value="radio" selected="selected">Radio</option> -->
+	  <option value="radio">Radio</option>
+	  <option value="computer">Computer</option>
+	</select>
+	<br />
+  <!-- Multiple-Select Box: -->
+    <h2>Multiple-Select Box:</h2>
+	<p>Do you play any of the following instruments? (You can select more than one option by holding down control on a PC or command
+	   key on a Mac while selecting different optioons.)</p>
+	<select name="instruments" size="3" multiple="multiple">
+	  <option value="quitar" select="selected">Guitar</option>
+	  <option value="drums">Drums</option>
+	  <!-- <option value="keyboard" selected="selected">Keyboard</option> -->
+	  <option value="keyboard">Keyboard</option>
+	  <option value="bass">Bass</option>
+	</select>
+  <!-- File Input-Box: -->
+    <h2>File Input-Box:</h2>
+	<p>Upload your song in MP3-format:</p>
+	<input type="file" name="user-song" /><br />
+	<input type="submit" value="Upload" />
+  </form>
+  <form action="http://www.example.com/subscribe.php" method="get">
+    <!-- Submit-Button: -->
+    <h2>Submit-Button:</h2>
+	<p>Submit to Our eMail-List:</p>
+	<input type="text" name="email" />
+	<!-- <input type="submit" name="subscribe" value="Subscribe" /> -->
+	<!-- <input type="image" src="../Advertising/Jon Duckett - 'HTML & CSS. Design and Build Websites'/images/subscribe.jpg" height="20" /> -->
+	<button><img src="../Advertising/Jon Duckett - 'HTML & CSS. Design and Build Websites'/images/subscribe.jpg" alt="subscribe"
+	         width="100" /></button>
+  </form>
+  <form action="http://www.example.com/add.php" method="get">
+    <!-- Button and Hiddeen Controls: -->
+	<h2>Button and Hidden Controls:</h2>
+	<button><img src="../Advertising/Jon Duckett - 'HTML & CSS. Design and Build Websites'/images/add.gif" alt="add" width="10"
+	         height="10" /> Add</button>
+	<input type="hidden" name="bookmark" value="lyrics" />
+	<!-- Labelling Form Controls: -->
+	<h2>Labelling Form Controls:</h2>
+	<label>Age: <input type="text" name="age"></label>
+	<br />
+	Gender:
+	<input id="fenmle" type="radio" name="gender" value="f" />
+	<label for="female">Female</label>
+	<input id="male" type="radio" name="gender" value="m" />
+	<label for="male">Male</label>
+	<input id="unspecified" type="radio" name="gender" value="u" />
+	<label for="unspecified">Unspecified</label>
+	<br />
+	<input id="content" type="radio" name="tendency" value="t" /><label>Agree</label>
+	<!-- Grouping Form Elements: -->
+	<h2>Grouping Form Elements:</h2>
+	<fieldset style="width:154px">
+	  <legend>Contact Details:</legend>
+	  <label>Email:<br />
+	  <input type="email" name="email" /></label>
+	  <label>Mobile:<br />
+	  <input type="text" name="mobile" /></label>
+	  <label>Telephone:<br />
+	  <input type="text" name="telephone" /></label>
+	</fieldset>
+  </form>
+</body>
+</html>
