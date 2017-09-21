@@ -5,8 +5,9 @@
   <title>Form</title>
 </head>
 <body>
-  <form action="http://www.example.com/login/" method="post">
+  <form action="http://www.example.com/login/" method="post" target="_blank">
     <fieldset style="width:260px">
+	  <legend>Log-in data:</legend>
       <label for="username">Username:</label>
 	  <input type="text" name="username" required="required" /><br />
 	  <label for="password">Password:</label>
@@ -16,7 +17,7 @@
 	</fieldset>
 	<input type="submit" value="Submit" title="Submit button" />
   </form>
-  <form action="http://www.example.com/profile.php" method="post">
+  <form action="http://www.example.org/profile.php" method="post" target="_blank">
   <!-- Radio-Buttons: -->
     <h2>Radio-Buttons:</h2>
     <p>Please select your favourite genre:
@@ -60,7 +61,7 @@
 	<input type="file" name="user-song" /><br />
 	<input type="submit" value="Upload" />
   </form>
-  <form action="http://www.example.com/subscribe.php" method="get">
+  <form action="http://www.example.org/subscribe.php" method="get" target="_blank">
     <!-- Submit-Button: -->
     <h2>Submit-Button:</h2>
 	<p>Submit to Our eMail-List:</p>
@@ -70,7 +71,7 @@
 	<button><img src="../Advertising/Jon Duckett - 'HTML & CSS. Design and Build Websites'/images/subscribe.jpg" alt="subscribe"
 	         width="100" /></button>
   </form>
-  <form action="http://www.example.com/add.php" method="get">
+  <form action="http://www.example.org/add.php" method="get" target="_blank">
     <!-- Button and Hiddeen Controls: -->
 	<h2>Button and Hidden Controls:</h2>
 	<button><img src="../Advertising/Jon Duckett - 'HTML & CSS. Design and Build Websites'/images/add.gif" alt="add" width="10"
@@ -89,17 +90,28 @@
 	<label for="unspecified">Unspecified</label>
 	<br />
 	<input id="content" type="radio" name="tendency" value="t" /><label>Agree</label>
+  </form>
+  <form action="http://www.example.org/subscription.php" target="_blank">
 	<!-- Grouping Form Elements: -->
 	<h2>Grouping Form Elements:</h2>
 	<fieldset style="width:154px">
 	  <legend>Contact Details:</legend>
 	  <label>Email:<br />
 	  <input type="email" name="email" /></label>
+	  <label>Website address:<br />
+	  <input type="url" name="website" /></label>
 	  <label>Mobile:<br />
 	  <input type="text" name="mobile" /></label>
 	  <label>Telephone:<br />
 	  <input type="text" name="telephone" /></label>
 	</fieldset>
+	<input type="submit" value="Submit" />
+  </form>
+  <!-- <form action="http://www.example.org/search.php"> -->
+  <form action="https://www.google.bg/search" target="_blank">
+    <h2>Search Field:</h2>
+	<input type="search" name="search" placeholder="Enter keyword" />
+	<input type="submit" value="Search" />
   </form>
 </body>
 </html>

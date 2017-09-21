@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Forms</title>
+	<meta charset="utf-8" />
+  </head>
+  <body>
+    <form action="http://www.example.com/review.php" method="get">
+	  <fieldset style="width:522px">
+	    <legend>
+		  Your Details:
+		</legend>
+		<label>
+		  Name:
+		  <input type="text" name="name" size="30" maxlength="100" required="required" />
+		</label>
+		<label>
+		  Email:
+		  <input type="email" name="email" size="30" maxlength="100" required="required" />
+		</label>
+	  </fieldset>
+	  <br />
+	  <fieldset style="width:522px">
+	    <legend>
+		  Your review:
+		</legend>
+		<p>
+		  <label for="hear-about">
+		    How did you hear about us?
+		  </label>
+		  <select name="referre" id="hear-about">
+		    <option value="google">Google</option>
+			<option value="friend">Friend</option>
+			<option value="advert">Advert</option>
+			<option value="other">Other</option>
+		  </select>
+		</p>
+		<p>
+		  Would you visit again?
+		  <br />
+		  <label>
+		    <input type="radio" name="rating" value="yes" />
+		    Yes
+		  </label>
+		  <label>
+		    <input type="radio" name="rating" value="no" />
+		    No
+		  </label>
+		  <label>
+		    <input type="radio" name="rating" value="maybe" />
+		    Maybe
+		  </label>
+		</p>
+		<p>
+		  <label for="comments">
+		    Comments:
+		  </label>
+		  <br />
+		  <textarea rows="4" cols="40" id="comments">
+		  </textarea>
+		</p>
+		<label>
+		  <input type="checkbox" name="subscribe" checked="checked" />
+		  Sign me up for email updates
+		</label>
+		<br />
+		<input type="submit" value="Submit data">
+	  </fieldset>
+	</form>
+	<br />
+	  <!-- width="450" -->
+	  <!-- height="350" -->
+	<fieldset style="width:522px">
+	<iframe
+	  width="518"
+	  height="408"
+	  src="http://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed"
+	  <!-- src="https://www.google.bg/maps/place/%D0%9B%D0%A3%D0%9A%D0%9E%D0%99%D0%9B+%D0%9D%D0%B5%D1%84%D1%82%D0%BE%D1%85%D0%B8%D0%BC+%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81/@42.5367019,27.3333358,10070m/data=!3m1!1e3!4m5!3m4!1s0x0:0xd7cd6a03973d8658!8m2!3d42.5418248!4d27.3414946" -->
+	  seamless="seamless"
+	  scrolling="no">
+	  <!-- frameborder="0" Attribute assings that iframe have no border around -->
+	  <!-- scrolling Attribute (not supported in HTML5, in HTML 4 and XHTML indicates whether the iframe should have scrollbars or not.) -->
+	  <!-- eventual seemless="seemless" Attribute assigns to HTML4 and XHTML not to show border around iframe. -->
+	</iframe>
+	</fieldset>
+  </body>
+</html>
