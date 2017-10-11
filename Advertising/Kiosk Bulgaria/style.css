@@ -1,0 +1,120 @@
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #F6F6F6;
+}
+
+.style1 a {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000;}
+.style1 a:link {	text-decoration: none;}
+.style1 a:visited { text-decoration: none; color: #000000; }
+.style1 a:hover { text-decoration: underline; color: #000000; }
+.style1 a:active { text-decoration: none; color: #000000; }
+
+.style3 a {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration:none;}
+.style3 a:link {	text-decoration: none; color: #000000;}
+.style3 a:visited { text-decoration: none; color: #000000; }
+.style3 a:hover { text-decoration: none; color: #000000; }
+.style3 a:active { text-decoration: none; color: #000000; }
+
+.style4 { font-size: 17px; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration:none;}
+.style4 a{ color: #000000; text-decoration:none;}
+.style4 a:hover{ color: #000000; text-decoration:none;}
+.style4 a:visited{ color: #000000; text-decoration:none;}
+
+.style5 {
+	font-size: 11px;
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+.style6 { color: #999999; line-height:10px; font-size:10px;}
+.style6 a{ color:#999999; text-decoration:none}
+.style6 a:hover{ color:#999999; text-decoration: underline}
+.style6 a:visited{
+	color: #999999;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.style7 { color: #FFFFFF; line-height:10px; font-size:10px;font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style7 a{ color:#FFFFFF; text-decoration:none}
+.style7 a:hover{ color:#FFFFFF; text-decoration: underline}
+.style7 a:visited{ color:#FFFFFF; text-decoration:none}
+
+.sec_link_style { color: #999999; line-height:11px; font-size:11px}
+.sec_link_style a{ color:#999999; text-decoration:none;}
+.sec_link_style a:hover{ color:#999999; text-decoration:underline}
+.sec_link_style a:visited{ color:#999999; text-decoration:none}
+
+.style8 {color: #FF0000}
+
+.style9 {color: #077D02; font-size: 22px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style10 {font-family: Arial, Helvetica, sans-serif}
+.style11 { color: #009900; font-size:11px;font-family: Verdana, Arial, Helvetica, sans-serif; }
+.style12 {color: #096BD2; font-size: 11px;}
+
+.search
+{
+    border: solid 0px;
+	padding-left:3px;
+	padding-bottom:0px;
+	width:100px; 
+    height:20px; 
+    background: url(images/input_search.gif) repeat-x left top;
+    font-size:11px; 
+    color:#000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.search_bg
+{
+    font-size:10px; 
+    color:#fff;
+	vertical-align:middle;   
+    width: 22px;
+    height: 20px;
+    border:none;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background: url(images/search_button2.gif) no-repeat top left; 
+	cursor:pointer;
+}
+.mailform{
+	width: 355px;
+	height: 350px;
+	margin: 0 auto;
+}
+.mailform input[type=text]{
+	width: 352px;
+	height: 23px;
+	background: url(images/inputcontact.gif) no-repeat;
+	border: none;
+	padding: 3px 0 0 5px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+}
+.mailform textarea{
+	width: 352px !important;
+	height: 120px !important;
+	background: url(images/input_massage.gif) no-repeat;
+	border: none;
+	padding: 3px 0 0 5px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+}
+.mailform input[type=submit], .mailform input[type=reset]{
+	width: 85px;
+	height: 25px;
+	background: url(images/button.gif) no-repeat !important; 
+	border: none;
+	padding: 0 0 0 0;
+	cursor: pointer;
+}
+span.NB{
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+}
