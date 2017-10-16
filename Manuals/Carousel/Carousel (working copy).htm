@@ -3,11 +3,17 @@
 <head>
   <title>Carousel</title>
   <meta charset="utf-8" />
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="CSS/bootstrap.min.css" />
+  <script src="script/jquery.min.js"></script>
+  <script src="script/bootstrap.min.js"></script>  -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
   <script src="script/bootstrap.min.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/bootstrap.min.js"></script> -->
   <style>
   .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
@@ -69,6 +75,9 @@
     <!-- Left and Right Controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
 	  <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+	  <!-- Note: ARIA stands for Accessible Rich Internet Applications.
+	  aria-hidden is used to hide the element from people using your website with accessibility tools. -->
+	  <!-- <span class="glyphicon glyphicon-menu-left"></span> -->
 	  <span class="sr-only">Previous</span>
 	</a>
 	<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
