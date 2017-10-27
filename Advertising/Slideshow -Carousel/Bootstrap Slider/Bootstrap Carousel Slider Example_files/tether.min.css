@@ -1,0 +1,24 @@
+.tether-element {
+	box-sizing: border-box;
+}
+.tether-element * {
+	box-sizing: border-box;
+}
+.tether-element ::after {
+	box-sizing: border-box;
+}
+.tether-element ::before {
+	box-sizing: border-box;
+}
+.tether-element::after {
+	box-sizing: border-box;
+}
+.tether-element::before {
+	box-sizing: border-box;
+}
+.tether-element {
+	display: none; position: absolute;
+}
+.tether-open.tether-element {
+	display: block;
+}
