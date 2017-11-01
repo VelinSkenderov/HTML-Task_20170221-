@@ -1,0 +1,8 @@
+Bootstrap Carousel Plugin:
+https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+
+Try it Youself:
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel2&stacked=h
+
+Bootstrap JS Carousel:
+https://www.w3schools.com/bootstrap/bootstrap_ref_js_carousel.asp
