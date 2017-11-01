@@ -1,0 +1,2 @@
+https://bootsnipp.com/tags/carousel
+https://bootsnipp.com/snippets/featured/bootstrap-carousel-with-text
