@@ -1,0 +1,55 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <script language="javascript" type="text/javascript">
+	<!--
+	var a = 2; //Binary: 10
+	var b = 3; //Binary: 11
+	var linebreak = "<br>"
+	
+	document.write("a = 2 (BIT record: 00000010); b = 3 (BIT record: 00000011)");
+	document.write(linebreak);
+	document.write(linebreak);
+	
+	document.write("Results:");
+	document.write(linebreak);
+	
+	document.write("(a & b) = ");
+	result = (a & b);
+	document.write(" 00000010 AND 00000011 => ");
+	document.write(result);
+	document.write(" (BIT record: 00000010)");
+	document.write(linebreak);
+	
+	document.write("(a | b) => ");
+	result = (a | b);
+	document.write(" 00000010 Btiwise OR 00000011 => ");
+	document.write(result);
+	document.write(" (BIT record: 00000011)");
+	document.write(linebreak);
+	
+	document.write("(a ^ b) => ");
+	result = (a ^ b);
+	document.write(" 00000010 Bitwise XOR 00000011 => ");
+	document.write(result);
+	document.write(" (BIT record: 00000001)");
+	document.write(linebreak);
+	
+	document.write("(`b) => ");
+	result = (~b);
+	document.write(" Bitwise NOT 00000010 => ");
+	document.write(result);
+	document.write(" (BIT record: 11111101)");
+	document.write(linebreak);
+	
+	document.write("(a << b) => ");
+	result = (a << b);
+	document.write(" 00000010 Bitwise Left Shift => ")
+	document.write(result);
+	document.write(" (BIT record: 00001000)")
+	
+	//-->
+	</script>
+  </body>
+</html>
