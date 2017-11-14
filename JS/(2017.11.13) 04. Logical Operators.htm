@@ -1,0 +1,51 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+<!--
+var a = true;
+var b = false;
+var linebreak = "<br>";
+
+document.write("If:");
+document.write(linebreak);
+document.write("==");
+document.write(linebreak);
+  
+document.write("a = ");
+document.write(a);
+document.write(", b = ");
+document.write(b);
+  
+document.write(",");
+document.write(linebreak), document.write(linebreak);
+document.write("then:");
+document.write(linebreak);
+document.write("====");
+document.write(linebreak);
+
+document.write("(a && a) => ");
+document.write(a), document.write(" && "), document.write(b), document.write(" = ");
+result=(a && b);
+document.write(result), document.write(",");
+document.write(linebreak);
+
+document.write("(a || b) => ");
+document.write(a), document.write(" || "), document.write(b), document.write(" = ");
+result=(a || b);
+document.write(result), document.write(",");
+document.write(linebreak);
+
+document.write("!(a && b) => ");
+document.write("!("), document.write(a), document.write(" && "), document.write(b), document.write(") => ");
+result=(!(a && b));
+document.write(result);
+document.write(linebreak);
+
+//-->
+</script>
+
+<p>Set the Variables to different values, change the Operators, and then try anew...</p>
+</body>
+</html>
