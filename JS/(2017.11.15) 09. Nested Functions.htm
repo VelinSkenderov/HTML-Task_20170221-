@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nested Functions</title>
+  <meta charset="utf-8" />
+  <!-- script-а поместваме в head-а, когато ще се вика от някакви потребителски действия: -->
+  <script type="text/javascript">
+    <!--
+    function hypotenuse(a, b) {
+      function square(x) { return x*x; }
+	  return Math.sqrt(square(a) + square(b));
+    }
+    function secondFunction() {
+      var result;
+	  result = hypotenuse(3, 4);
+	  document.write (result + "cm.");
+    }
+    //-->
+  </script>
+</head>
+<body>
+  <p>За да видите колко е дължината на хипотенузата на правоъгълен триъгълник с катети 3cm. и 4cm., натиснете Бутона:</p>
+  <form>
+    <input type="button" onclick="secondFunction()" value="Call Function" title="Я да видим..." />
+  </form>
+  <p>If you like, use different parametres inside the Function, and try anew...</p>
+</body>
+</html>

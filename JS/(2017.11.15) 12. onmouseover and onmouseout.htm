@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>onmouseover and onmouseout</title>
+  <meta charset="utf-8" />
+  <!-- script-а поместваме в head-а, когато ще се вика от някакви потребителски действия: -->
+  <script type="text/javascript">
+    <!--
+	function over() {
+	  document.write ("Mouse over");
+	}
+	function out() {
+	  document.write ("Mouse out");
+	}
+	//-->
+  </script>
+</head>
+<body>
+  <p>Bring your mouse inside the division to see the result:</p>
+  <div onmouseover="over()" onmouseout="out()">
+  <h2>This is inside the division</h2>
+  </div>
+</body>
+</html>

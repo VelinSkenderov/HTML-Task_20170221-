@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Return Statement</title>
+  <meta charset="utf-8" />
+  <!-- script-а поместваме в head-а, когато ще се вика от някакви потребителски действия: -->
+  <script type="text/javascript">
+    <!--
+	function concatenate( first, last )
+	{
+	 var full;
+	 var linebreak = "<br>"
+	 
+	 full = first + " " + last;
+	 return full; //return Function returns a Value from a Function; this Statement should be the LAST Statement in a Function
+	}
+	
+	function secondFunction()
+	{
+	 var result;
+	 result = concatenate( 'Велин', 'Скендеров' );
+	 document.write (result );
+	}
+	//-->
+  </script>
+</head>
+<body>
+  <p>Click the following Button in order to call the relevant Function:</p>
+  <!-- <form> -->
+    <input type="button" onclick="secondFunction()" value="Call Function" title="C'mo-o-on!" />
+  <!-- </form> -->
+  <p>If you like, use different parametres inside the Function, and try anew...</p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Function Parametres</title>
+  <meta charset="utf-8" />
+  <!-- script-а поместваме в head-а, когато ще се вика от някакви потребителски действия: -->
+  <script type="text/javascript">
+    function sayHello(name, age)
+	{
+	 document.write ( name + " is " + age + " years old." );
+	}
+  </script>
+</head>
+<body>
+  <p>Cliakc the following Button to call the Function</p>
+  <form>
+    <input type="button" onclick="sayHello('Velin', 46)" value="Say Hello!" title="C'mo-o-on!" />
+  </form>
+  <p>If you like, use different parametres inside the Function, and try anew...</p>
+</body>
+</html>

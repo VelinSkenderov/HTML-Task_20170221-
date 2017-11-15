@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Function() Constructor</title>
+  <meta charset="utf-8" />
+  <!-- script-а поместваме в head-а, когато ще се вика от някакви потребителски действия: -->
+  <script type="text/javascript">
+    <!--
+	var func = new Function("x", "y", "return x*y;");
+	
+	function secondFunction() {
+	  var result;
+	  result = func(10,20);
+	  document.write ( result );
+	}
+	//-->
+  </script>
+</head>
+<body>
+  <p>Click the Button to call the Function:</p>
+  
+  <form>
+    <input type="button" onclick="secondFunction()" value="Call Function" title="C'mo-o-on!" />
+  </form>
+  
+  <p>If you like, use different parametres inside the Function, and try anew...</p>
+</body>
+</html>

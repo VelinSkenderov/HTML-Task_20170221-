@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Label with continue Statement</title>
+  <meta charset="utf-8" />
+</head>
+<body>
+  <script type="text/javascript">
+    <!--
+	var linebreak = "<br>"
+	
+	document.write ( "Вход в Цикъла!" + linebreak );
+	
+	outerloop: // Това е Label-ът на outerloop
+	for ( var i = 0; i < 3; i++ ) //Вход във Външен Цикъл outerloop
+	{
+	 document.write ( "Outerloop: " + i + linebreak );
+	 
+	 for ( var j = 0; j < 5; j++ ) //Вход във Вътрешен Цикъл
+	 {
+	   if ( j == 3 ) {
+	     continue outerloop; //При достигната от Броячат j Стойност 3, Вътрешният Цикъл innerloop се прекратява и се връщаме към Външния Цикъл, като outerloop продължава оттам, докъдето е бил Броячът му: i
+	   }
+	   document.write ( "Innerloop: " + j + linebreak );
+	 }
+	 
+	}
+	
+	document.write ( "Изход от Цикъла!" + linebreak )
+	
+	//-->
+  </script>
+  <noscript>
+    Sorry... Javascript is needed to go ahead.
+  </noscript>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Label with a break Statement</title>
+  <meta charset="utf-8" />
+</head>
+<body>
+  <script type="text/javascript">
+    <!--
+	var linebreak = "<br>"
+	
+	document.write ( "Вход в Цикъла!" + linebreak );
+	
+	outerloop: // Label на outerloop
+	for ( var i = 0; i < 5; i++ ) //Вход във Външния Цикъл outerloop
+	{
+	  document.write ( "Outerloop: " + i + linebreak );
+	  
+	  innerloop: // Label на innerloop
+	  for ( var j = 0; j < 5; j++ ) //Вход във Вътрешния Цикъл innerloop
+	  {
+	    if ( j > 3) break innerloop; //Изход от Вътрешния Цикъл innerloop (МОЖЕМ да пропуснем Label-а innerloop след Командата break)
+		if ( i == 2 ) break innerloop; //Отново изход от Вътрешния Цикъл innerloop
+		if ( i == 4 ) break outerloop; //Изход от Външния Цикъл outerloop
+		document.write ( "Innerloop:" + j + linebreak );
+	  }
+	  
+	}
+	document.write ( "Изход от Цикъла!" );
+	//-->
+  </script>
+  <noscript>
+    Sorry... Javascript is needed to go ahead.
+  </noscript>
+  <p>If you like, set the Variable to different Value, and try anew...</p>
+</body>
+</html>
