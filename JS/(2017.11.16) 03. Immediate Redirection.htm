@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Immediate Redirection</title>
+  <meta charset="utf-8" />
+  <script type="text/javascript">
+  <!--
+  
+  var linebreak = "<br>"
+  
+  function WriteCookie()
+  {
+  
+    if( document.formname.customer.value == "" ) {
+	    alert ("Enter some value!"); //Натискане на Бутона при невъведена value в Поле customer на myform ще изведе въпросния alert
+		return
+	  }
+  
+    var now = new Date();
+	now.setMonth (now.getMonth() + 1);
+	cookievalue = escape(document.formname.customer.value) + ";"
+	document.cookie = "name=" + cookievalue;
+	document.cookie = "expires=" + now.toUTCString() + ";"
+	document.write ("Setting Cookie: " + "name=" + cookievalue + ", т.е. " + (unescape(cookievalue) + linebreak) );
+	document.write ("Стойност на var now = new Date(): " + now + ";" + linebreak + "А това е стойността на now в по-човешки вид - преобразувана с Метода toUTCString(): " + now.toUTCString());
+  }
+  
+  function AutoRefresh( t ) {
+    setTimeout("location.reload(true);", t);
+  }
+  
+  function Redirect() {
+    window.location="http://www.google.com/";
+  } //Immediate Redirection
+
+  //-->
+  </script>
+</head>
+<body onload="JavaScript: AutoRefresh(10000);">
+  <p>Nota Bene: This page will refresh every 10 seconds. In case of dare need, you can <a href="javascript: location.reload(true)" title="Click!">Refresh Manually</a>.</p>
+  <form name="formname" action="">
+    Enter name: <input type="text" name="customer" />
+    <input type="button" value="Set Cookie" onclick="WriteCookie()" title="Click in order to Set!" />
+	<p>Click the Button below to be redirected to Google Page...</p>
+    <input type="button" value="Go to Google" title="http://www.google.com/" onclick="Redirect();" />
+  </form>
+  <br>
+  <!-- С долния ред добавяме към Страницата опцията: "Refresh Manually" -->
+  <!-- <a href="javascript: location.reload(true)" title="In case of dare need!">Refresh Manually</a> -->
+</body>
+</html>

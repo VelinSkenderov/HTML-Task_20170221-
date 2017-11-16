@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Setting Cookies Expiry Date</title>
+  <meta charset="utf-8" />
+  <script type="text/javascript">
+  <!--
+  
+  var linebreak = "<br>"
+  
+  function WriteCookie()
+  {
+  
+    if( document.formname.customer.value == "" ) {
+	    alert ("Enter some value!"); //Натискане на Бутона при невъведена value в Поле customer на myform ще изведе въпросния alert
+		return
+	  }
+  
+    var now = new Date();
+	now.setMonth (now.getMonth() + 1);
+	cookievalue = escape(document.formname.customer.value) + ";"
+	document.cookie = "name=" + cookievalue;
+	document.cookie = "expires=" + now.toUTCString() + ";"
+	document.write ("Setting Cookie: " + "name=" + cookievalue + ", т.е. " + (unescape(cookievalue) + linebreak) );
+	document.write ("Стойност на var now = new Date(): " + now + ";" + linebreak + "А това е стойността на now в по-човешки вид - преобразувана с Метода toUTCString(): " + now.toUTCString());
+  }
+  
+  function AutoRefresh( t ) {
+    setTimeout("location.reload(true);", t);
+  }
+
+  //-->
+  </script>
+</head>
+<body onload="JavaScript: AutoRefresh(10000);">
+  <p>Nota Bene: This page will refresh every 10 seconds. In case of dare need, you can <a href="javascript: location.reload(true)" title="Click to Refresh Page">Refresh Manually</a>.</p>
+  <form name="formname" action="">
+  Enter name: <input type="text" name="customer" />
+  <input type="button" value="Set Cookie" title="Submit" onclick="WriteCookie()" />
+  </form>
+  <br>
+  <!-- С долния ред добавяме към Страницата опцията: "Refresh Manually" -->
+  <!-- <a href="javascript: location.reload(true)" title="In case of dare need!">Refresh Manually</a> -->
+</body>
+</html>

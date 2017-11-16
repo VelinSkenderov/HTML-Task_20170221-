@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Informed Redirection</title>
+  <meta charset="utf-8" />
+  <script type="text/javascript">
+  <!--
+  
+  var linebreak = "<br>"
+
+  function ImmediateRedirect() {
+    window.location="http://www.google.com/";
+  } //Immediate Redirection
+  
+  function InformedRedirect() {
+    window.location="http://www.google.com/";
+  }
+  dosument.write ("You will be redirected to Google in 10 seconds...");
+  setTimeout("InformedRedirect()", 1000);  
+
+  //-->
+  </script>
+</head>
+<body onload="JavaScript: AutoRefresh(10000);">
+    <form name="formname" action="">
+    <p>Click the Button below to be redirected to Google Page...</p>
+    <input type="button" value="Go to Google" title="http://www.google.com/" onclick="ImmediateRedirect();" />
+	<p>...or if you deem it more advisable, you could go there after being shown an appropriate message by clicking this Button:</p>
+	<input type="button" value="Go to Google" title="Message First" onclick="InformedRedirect();" />
+  </form>
+  <br>
+  <!-- С долния ред добавяме към Страницата опцията: "Refresh Manually" -->
+  <!-- <a href="javascript: location.reload(true)" title="In case of dare need!">Refresh Manually</a> -->
+</body>
+</html>

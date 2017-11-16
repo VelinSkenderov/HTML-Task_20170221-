@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Storing Cookies</title>
+  <meta charset="utf-8" />
+  <!-- script-а поместваме в head-а, когато ще се вика от някакви потребителски действия: -->
+  <script type="text/javascript">
+    <!--
+	var linebreak = "<br>";
+	
+	function WriteCookie()
+	{
+	  if( document.myform.customer.value == "" ) {
+	    alert ("Enter some value!"); //Натискане на Бутона при невъведена value в Поле customer на myform ще изведе въпросния alert
+		return
+	  }
+	  
+	  var now = new Date();
+	  now.setMonth( now.getMonth() + 1 ); //Увеличаваме месеца на текущата Дата с 1
+	  cookievalue = escape(document.myform.customer.value) + ";"; //Четем в cookievalue въведеното в Поле customer; Cookie-тата НЕ МОГАТ да съдържат ";", "," или интервали и затова, с цел съхранение, ги КОДИРАМЕ с JavaScript escape()-Функцията, като за четене на Стойностите в тях, следва да ги ДЕКОДИРАМЕ с unescape()-Функцията
+	  document.cookie = "name" + cookievalue; //Записваме в document.cookie стойността на Поле customer на Документа myform
+	  document.cookie = "expires=" + now.toUTCString() + ":" //Указваме Expiry Date, приспоявайки таква на Атрибута expires 
+	  document.write ("Setting Cookies : " + "name = " + cookievalue + " - което ще рече: " + unescape(cookievalue));
+	}
+	
+	function ReadCookie() //При вече налични на машината ни и други Cookie-та, Методът ще прочете/покаже и тях
+	{
+	  var allcookies = document.cookie;
+	  document.write ("Document Cookies are as follows: " + allcookies + linebreak);
+
+	  // Get all cookies pairs in an array:
+	  cookiearray = allcookies.split(';');
+	  
+	  // Now take key value pair out of this array:
+	  for (var i=0; i<cookiearray.length; i++) { //С Метода lenght на Класа Array, четем array-дължината
+	    name = cookiearray[i].split('=')[0];
+		value = cookiearray[i].split('=')[1];
+		document.write ("Key is: " + name + ", and its Value: " + value);
+	  }
+	}
+	//-->
+  </script>
+</head>
+<body>
+  <form name="myform" action="">
+  Enter name: <input type="text" name="customer" />
+  <input type="button" value="Set Cookie" onclick="WriteCookie();" title="Въведете нещо, че да го журнализираме, де!" />
+  <p>Click the following Button, and see the result: </p>
+  <input type="button" value="See Your Cookie(-s)" onclick="ReadCookie()" title="Да видим сега каква сме я надробили..." />
+  </form>
+</body>
+</html>
