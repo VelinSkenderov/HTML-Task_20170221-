@@ -1,0 +1,7 @@
+ul{list-style: none}
+ul li{padding: .5em}
+ul li.hundred{background: rgba(0,0,255,1)}
+ul li.eighty{background: rgba(0,0,255,0.8)}
+ul li.sixty{background: rgba(0,0,255,0.6)}
+ul li.fourty{background: rgba(0,0,255,0.4)}
+ul li.twenty{background: rgba(0,0,255,0.2)}
