@@ -1,0 +1,95 @@
+/* spacing */
+
+table {
+	table-layout: fixed;
+	width: 100%;
+	border-collapse: collapse;
+	border: 3px solid purple;
+}
+
+thead th:nth-child(1) {
+	width: 30%
+}
+
+thead th:nth-child(2) {
+	width: 20%
+}
+
+thead th:nth-child(3) {
+	width: 15%
+}
+
+thead th:nth-child(4) {
+	width: 35%
+}
+
+th, td {
+	padding: 20px;
+}
+
+/* typography (fonts) */
+
+html {
+	font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+
+thead th, tfoot th {
+	font-family: "Rock Salt", cursive;
+}
+
+th {
+	letter-spacing: 2px;
+}
+
+td {
+	letter-spacing: 1px;
+}
+
+tfoot th {
+	text-align: right;
+}
+
+/* trimming the table */
+
+/* adding a background image */
+thead, tfoot {
+	background: url("../JPGs/leopardskin (2017.10.09).jpg"); /* the mere URL should be in quotations */
+	color: white; /* this is the text-colour */
+	text-shadow: 1px 1px 1px black;
+}
+
+/* adding a linear gradient to the <th> and <td> elements inside the header and footer */
+thead th, tfoot th, tfoot td {
+	background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+	border: 3px solid purple;
+}
+
+/* zebra striping */
+/* tbody tr:nth-child(odd) { NOTA BENE: the row below does exact the same */
+tbody tr:nth-child(2n-1) {
+	background-color: #ff33cc;
+}
+
+/* tbody tr:nth-child(even) { NOTA BENE: the row below does exact the same */
+tbody tr:nth-child(2n) {
+	background-color: #e495ed;
+}
+
+tbody tr {
+	background-image: url("../PNGs/noise (2017.10.09).png")
+}
+
+table {
+	background-color: #ff33cc
+}
+
+/* styling the caption */
+caption {
+	font-family: "Rock-Salt", cursive;
+	padding: 20px;
+	font-style: italic;
+	caption-side: bottom; /* the value of bottom of the current property causes the caption to be positioned on the bottom of the table */
+	color: #666;
+	text-align: right;
+	letter-spacing: 1px;
+}
