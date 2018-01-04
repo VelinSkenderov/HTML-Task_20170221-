@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>SAMPLE FramePage #1</title>
+</head>
+<frameset rows="100px,*"> !Атрибутът rows указва FrameSet-ът да бъде разпределен по Редове, а присвоената/-ите му стойност/-и: съотношението/-ята на Редовете във FrameSet-а
+  <frame src="(2018.01.04) Top.html" name="Top" /> !Указваме кой HTML-Документ да бъде поместен в дадения Frame
+  <frameset cols="20%,*"> !С Атрибутът cols указва вътрешният FrameSet да бъде разпределен по Колони, а присвоената/-ите му стойност/-и: съотношението/-ята на Колоните във вътрешния FrameSet
+	<frame src="(2018.01.04) Left.html" name="Left" /> !Tag-ът Frame е 'самозатварящ се'
+	<frame src="(2018.01.04) Right.html" name="Right" />
+	<noframes> !Tag-ът noframes НЕ е разрешен в XHTML 1.0 Strict DTD
+	Това е Фреймова страница, но Browser-ът Ви не поддържа Фреймове.
+	Сменете Версията на Browser-а си, за да видите страницата.
+	</noframes>
+  </frameset> !ВАЖЕН е Затварящият Tag на вътрешния FrameSet
+</frameset> !ВАЖЕН е Затварящият Tag на външния FrameSet
+</html>
