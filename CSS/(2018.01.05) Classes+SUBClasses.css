@@ -1,0 +1,9 @@
+a.menu:link {color: #cccccc; text-decoration: none}
+a.menu:visited {color: #dddddd; text-decoration: none}
+a.menu:hover {color: #ffffff; text-decoration: underline}
+a.menu:active {color: #aaaaaa; text-decoration: none}
+
+a:link {color: #aa0000}
+a:visited {color: #00ff00}
+a:hover {color: #0000aa}
+a:active {color: #ff00ff}
