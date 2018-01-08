@@ -1,0 +1,17 @@
+h1
+{
+/* font-family: arial, helvetica, sans-serif; */
+font-family: times new roman, helvetica, sans-serif
+font-size: 36px;
+color: #0000ff;
+text-align: center;
+/* text-transform: capitalize; */
+text-decoration: underline;
+letter-spacing: 0px /* -3px; */
+word-spacing: 1cm
+}
+
+a:link {color: #aa0000; text-decoration: none}
+a:visited {color: #00ff00; text-decoration: none}
+a:hover {color: #0000aa; text-decoration: underline}
+a:active {color: #ff00ff; text-decoration: none}
