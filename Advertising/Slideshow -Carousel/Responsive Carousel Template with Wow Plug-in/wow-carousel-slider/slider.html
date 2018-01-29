@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>A free Bootstrap carousel with wow animation</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+       <!-- <link href="css/bootstrap.css" rel="stylesheet"> -->
+		<!-- Google Web Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>   
+        <!--Choco bar Theme CSS style -->
+        <link href="css/slider.css" rel="stylesheet">     
+        
+        <link rel="stylesheet" href="css/animate.css">   
+        
+
+
+   
+                        
+</head>
+	<body >
+<!-- Complete Range of Products carosel-->
+		<div class="wow flipInX" data-wow-delay="0.6s" style="background-color:#AF8F85">
+			<div class="container text-center"><h1 class="text-center">The product slider</h1>
+				<div class="row">
+                    <div class="carousel slide row" data-ride="carousel" data-type="multi" data-interval="2000" id="productscarousel" style="background-color:#C9B4AB">
+                    
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="col-md-3 col-sm-4 col-xs-12"><a href="#"><img class="rotprod" src="img/products/prod-2.png" class="img-responsive"></a></div>
+                            </div>
+                            <div class="item">
+                                <div class="col-md-3 col-sm-4 col-xs-12"><a href="#"><img class="rotprod" src="img/products/prod-4.png" class="img-responsive"></a></div>
+                            </div>
+                            <div class="item">
+                                <div class="col-md-3 col-sm-4 col-xs-12"><a href="#"><img class="rotprod" src="img/products/prod-2.png" class="img-responsive"></a></div>
+                            </div>
+                            <div class="item">
+                                <div class="col-md-3 col-sm-4 col-xs-12"><a href="#"><img  class="rotprod" src="img/products/prod-4.png" class="img-responsive"></a></div>
+                            </div>
+                            <div class="item">
+                                <div class="col-md-3 col-sm-4 col-xs-12"><a href="#"><img class="rotprod" src="img/products/prod-2.png" class="img-responsive"></a></div>
+                            </div>
+                            <div class="item">
+                                <div class="col-md-3 col-sm-4 col-xs-12"><a href="#"><img class="rotprod" src="img/products/prod-4.png" class="img-responsive"></a></div>
+                            </div>
+                        </div>
+                    
+                        <a class="left carousel-control" href="#productscarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                        
+                        <a class="right carousel-control" href="#productscarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a> 
+                    </div>
+                </div>
+                <div class="space">
+                <a class="btn btn-danger btn-lg wow bounceIn" href="http://www.jquery-az.com/"><i class="icon-upload-alt"></i>Download Code</a>
+                </div>
+              </div>
+          </div>                                                        
+<!-- Complete range of products / small carousel ending here -->
+
+
+
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+<!-- Bootstrap library from CDN -->        
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+        
+        <!-- In own hosting -->
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>-->
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.0.3/wow.min.js"></script>-->
+        <script src="js/wow.min.js"></script>
+<script>
+        //Initializing WOW animations
+          new WOW().init();
+	$(document).ready(function(){
+	//Small carosel code set here
+    jQuery('.carousel[data-type="multi"] .item').each(function(){
+		var next = jQuery(this).next();
+		if (!next.length) {
+			next = jQuery(this).siblings(':first');
+		}
+		next.children(':first-child').clone().appendTo(jQuery(this));
+	  
+		for (var i=0;i<2;i++) {
+			next=next.next();
+			if (!next.length) {
+				next = jQuery(this).siblings(':first');
+			}
+			next.children(':first-child').clone().appendTo($(this));
+		}
+	});
+    //Ending of small carosel
+	});     
+</script>
+
+
+	</body>
+</html>                    

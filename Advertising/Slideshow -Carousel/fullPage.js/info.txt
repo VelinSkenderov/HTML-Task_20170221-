@@ -1,0 +1,6 @@
+Main Page - URL:
+https://alvarotrigo.com/fullPage/
+
+Download - 
+URL:
+https://github.com/alvarotrigo/fullpage.js/archive/master.zip

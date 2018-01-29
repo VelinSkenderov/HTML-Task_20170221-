@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Slideshow (Carousel)</title>
+  <meta name="viewport" content="width=device-width, initial-acale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <link href="css/basic-carousel.css" />
+  <script src="js/basic-carousel.js"></script>
+</head>
+<body>
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+	  <div class="numberText">1/4</div>
+	  <img src="images/slide1.jpg" alt="First Slide" style="width: 100%" />
+	  <div class="text">Caption Text One</div>
+	</div>
+	<div class="mySlides fade">
+	  <div class="numberText">2/4</div>
+	  <img src="images/slide2.jpg" alt="Second Slide" style="width: 100%" />
+	  <div class="text">Caption Text Two</div>
+	</div>
+	<div class="mySlides fade">
+	  <div class="numberText">3/4</div>
+	  <img src="images/slide3.jpg" alt="Third Slide" style="width: 100%" />
+	  <div class="text">Caption Text Three</div>
+	</div>
+	<div class="mySlides fade">
+	  <div class="numberText">4/4</div>
+	  <img src="images/slide4.jpg" alt="Fourth Slide" style="width: 100%" />
+	  <div class="text">Caption Text Four</div>
+	</div>
+	<a class="prev" onclick="plusSlides(-1)">&#10094</a>
+	<a class="next" onclick="plusSlides(1)">&#10095</a>
+  </div>
+  <br>
+  
+  <div style="text-align: center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+	<span class="dot" onclick="currentSlide(2)"></span>
+	<span class="dot" onclick="currentSlide(3)"></span>
+	<span class="dot" onclick="currentSlide(4)"></span>
+  </div>
+</body>
+</html>
