@@ -1,8 +1,0 @@
-Download Page - URL:
-https://owlcarousel2.github.io/OwlCarousel2/
-
-Download - URL:
-https://github.com/OwlCarousel2/OwlCarousel2/archive/2.2.1.zip
-
-GitHub Link:
-https://github.com/OwlCarousel2/OwlCarousel2

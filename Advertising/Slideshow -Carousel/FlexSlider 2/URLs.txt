@@ -1,4 +1,0 @@
-http://flexslider.woothemes.com/basic-slider-with-caption.html
-
-Download FlexSlider - URL:
-https://github.com/woothemes/FlexSlider/zipball/master

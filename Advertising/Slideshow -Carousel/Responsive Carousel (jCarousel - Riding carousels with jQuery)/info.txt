@@ -1,4 +1,0 @@
-How to Create a Responsive Carousel (jCarousel - Riding carousels with jQuery)
-
-Main Page - URL:
-https://sorgalla.com/jcarousel/docs/cookbook/responsive-carousel.html
