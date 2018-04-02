@@ -1,0 +1,21 @@
+Wikipedia - URL:
+https://en.wikipedia.org/wiki/ITIL
+
+ITIL 2011 edition
+
+5 core publications:
+Service Strategy,
+Service Design,
+Service Transition,
+Service Operation, and
+Continual Service Improvement
+
+
+Twenty-six processes are listed in ITIL 2011 edition and described below, along with which core publication provides the main content for each process.
+
+ITIL 2007 has five volumes, published in May 2007, and updated in July 2011 as ITIL 2011 for consistency:
+1.ITIL Service Strategy: understands organizational objectives and customer needs.
+2.ITIL Service Design: turns the service strategy into a plan for delivering the business objectives.
+3.ITIL Service Transition: develops and improves capabilities for introducing new services into supported environments.
+4.ITIL Service Operation: manages services in supported environments.
+5.ITIL Continual Service Improvement: achieves services incremental and large-scale improvements.
