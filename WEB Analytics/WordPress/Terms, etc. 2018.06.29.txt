@@ -1,0 +1,115 @@
+live site - Официален сайт
+fully qualified - Несъкратени/Absolute/Qualified
+Fully Qualified Links - Релативни/Relative
+WordPress Dashboard - Команден екран
+Workflow - последователност
+
+Trial and Error Method:
+In the field of computer science, the method is called generate and test.
+In elementary algebra, when solving equations, it is "guess and check".
+
+Theme Set of Contents - Тематично съдържание
+Custom Content - Брандирано Съдържание
+
+Запознаване с Ядрото
+
+
+https://www.google.com/search?ei=G84fW72fLtKUmwWjxa24Ag&q=%22qualified%22+%2B+absolute&oq=%22qualified%22+%2B+absolute&gs_l=psy-ab.3..0i22i30k1l10.100124.102468.0.102797.8.8.0.0.0.0.140.1025.0j8.8.0....0...1.1.64.psy-ab..0.8.1014....0.aRlcyux__rY
+https://datacash.custhelp.com/app/answers/detail/a_id/1067/~/fully-qualified-url
+https://www.digital.bg/novini/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D1%81%D1%8A%D0%B7%D0%B4%D0%B0%D0%B4%D0%B5%D0%BC-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B8-url-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B8-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D1%8A%D1%80%D0%B0-news26051.html
+https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
+
+https://www.google.com/search?biw=1152&bih=718&ei=E4sjW47UA4axsQGH162YDw&q=%22custom+content%22+%2B+%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5&oq=%22custom+content%22+%2B+%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5&gs_l=psy-ab.3...5580191.5589772.0.5590980.17.17.0.0.0.0.257.2219.0j11j3.14.0....0...1.1.64.psy-ab..3.13.1986...0j0i13k1j0i7i10i30k1j0i22i30k1j33i160k1.0.Vkq25m0uzxY
+https://github.com/VelinSkenderov/HTML-Task_20170221-/upload/master/WEB%20Analytics/WordPress
+https://www.techopedia.com/definition/4205/staging-server
+https://en.wikipedia.org/wiki/System_partition_and_boot_partition
+
+
+Professional WordPress Design and Development (stilson.net, Professional WordPress, 2nd Edition).pdf
+54 (84 of 460)
+(You are going) to remove all...
+
+III. Локлана работа с WordPress... .doc
+
+
+http://WordPress.org
+http://codex.wordpress.org/Glossary#Text_editor
+WordPress.org - http://WordPress.org
+http://codex.wordpress.org/Glossary
+
+API - Application Programming Interface; Приложно-програмен интерфейс: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjbsoCwhuLbAhWGAJoKHdIrCBIQFggmMAA&url=https%3A%2F%2Fbg.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25B6%25D0%25BD%25D0%25BE-%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B5%25D0%25BD_%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D1%2584%25D0%25B5%25D0%25B9%25D1%2581&usg=AOvVaw3OpkPIpNQr841X2kYBwZDj
+Access Modifier - 
+Bookmark - Показалец, Отбелязвам с отметка, Отмятам
+Breal down - Анализирам/Декомпозирам
+Call - Обръщение; Рекурсия (вж. )
+Chunk of JavaScript - Блок от Код JavaScript
+Conditional Tags - Условни Tag-ове
+Custom Fieeld - Поле за попълване
+Custom Post Types - Индивидуални типове Post-ове
+Deprecated Functions - Неподдържани Функции
+Don't Hack the Core! - Не увреждайте Ядрото!
+Entry Point - Входна точка
+Equally important - Не по-маловажно е това, че
+Execute against - Изшълнява спрямо
+First Conditional, Zero Conditional - Първично Условие, Вторично Условие
+Flow of the Loop - Тяло на Цикъла ()
+Footer - Долен Колонтитул
+Getting Started with - Да започнем с
+Global Query varable - 
+Granularity of Data - Гранулираност на Данните (Ниво на Детайлност)
+Hack - Внасям зловредни изменения
+Header - Заглавен ред/Горен Колонтитул
+Heavy Lifting - Черната работа
+Hook - Условие за прихващане
+Hook - Проверка за някакво условие; При дадено Условие; Прихващане на дадено Събитие/Event; Входно условие
+Inner Join - Вътрешно съединение
+Instance - Инстанция/Проявление
+Instantiate - Инстанциирам
+Invocation (of the Loop) - Извикване (на Цикъла)
+Late Binding/Dynamic Binding - Динамично (късно) свързване
+LIKE Modifier - Модификатор за достъп LIKE
+Logical Flow - Логическа последователност/Логическа ораганизация
+Loop Flow - Поток на Цикъла/Програмата
+Map-вам - Пренасочвам/Трансформирам
+Main Content Area - Област с Основно съдържание
+Nonce - Неопределеност
+Paging - Обхождане/Скролиране страница по страница; Обхождане на Страници
+Parse - Анализирам/Преобразувам, Трансформирам
+Permalinks - Постоянни URL-Адреси
+Permalnk Tail - 
+Pieces of Code - Участъци от Код
+Point of Execution - Фаза на Процеса
+Query Object - 
+Return Value - Върната стойност
+Search Box - Поле за търсене
+Selection Set - Множество Базови точки
+Selection Variable - Селектирана променлива
+Set someting into something - Поставям нещо някъде (на мястото му).
+Shortcode - Кратки Кодове ()
+Sidebar - Меню за Навигация/Страничен панел
+Slug - A slug is the piece of the URL that distinguishes that post. (SEO benefit)
+SQL Statement - SQL Израз
+Statment - Конструкция
+Subpanel - Дъщерен панел
+Teaser - Натрапчив парафраф
+The Loop will continue while - Цикълът продулжава, докато
+Variable Object - Обект-Променлива
+Widget - Притурка, Джаджа
+WordPress Developer Community - Общност Разработчици на WordPress
+
+Критерии ЗА Заявка
+Параметри НА/В/КЪМ Заявката
+Стойности на Параметъра
+Указвам Параметри
+Установени Параметри
+
+
+
+
+
+
+
+
+
+
+
