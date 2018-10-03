@@ -1,0 +1,38 @@
+https://custom-resolution-utility.en.lo4d.com/
+
+
+“Overrides AMD and NVIDIA settings and create custom resolutions”
+A review of Custom Resolution Utility by Sven Sørensen
+
+Custom Resolution Utility is a small freeware utility which can tweak your NVIDIA and AMD 
+graphics cards to create higher resolutions.
+
+As a portable application, CRU does not require installation and can be run without 
+installation.
+
+The layout of the program provides a list of currently supported resolutions for your 
+monitor with the option to add new ones.
+
+The application isn't perfect, but if your monitor can support higher and/or different 
+resolutions from what's displayed in your graphics control panel, Custom Resolution Utility 
+will create EDID values in the registry so that you may select the resolutions in your 
+graphics settings.
+
+Currently supported GPUs are limited to some AMD/ATI and NVIDIA cards, as Intel GPUs are 
+not supported.
+
+It's worth pointing out that you should have an idea of what your monitor and GPU are 
+capable of. If anything goes wrong, the download comes with an app called "reset-all.exe" 
+which can be run to revert any changes you have made with Custom Resolution Utility.
+
+Custom Resolution Utility features and highlights:
+Detailed resolutions are the preferred way to add custom resolutions 
+The first detailed resolution is considered the preferred or native resolution 
+HDMI is treated as single-link DVI unless an HDMI support data block is defined in the 
+first extension block 
+HDMI limits depend on the graphics card 
+AMD/ATI's driver also listens to the TMDS clock limit in the HDMI support data block 
+Passive DisplayPort to HDMI adapters are limited to 165 MHz unless the driver is patched
+
+
+Custom Resolution Utility is licensed as Freeware for Windows (32-bit and 64-bit) operating system / platform from video tweaks without restrictions. Custom Resolution Utility 1.4.1 is available to all software users as a free download (Freeware).
