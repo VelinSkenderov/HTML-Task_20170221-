@@ -51,6 +51,7 @@ Conditional Tags - Условни Tag-ове
 Content Management Workflow - Процес на Управление на Съдържанието
 Contributor - Участник
 Core Functionality - Базова функционалност
+CPU Load - Натоварване на Процесора
 Custom Field - Поле за попълване
 Custom Post Types - Индивидуални типове Post-ове
 Database Schema - Схема/Дизайн на БД.
@@ -109,6 +110,7 @@ Permalnk Tail -
 Pieces of Code - Участъци от Код
 Plugin - Плъгин
 Point of Execution - Фаза на Процеса
+Premium - Първокласен
 Property - Свойство
 Query - Заявка
 Query against the Data - Заявки към Данните
@@ -127,6 +129,7 @@ Shortcode - Кратки Кодове ()
 Sidebar - Меню за Навигация/Страничен панел
 Slug - A slug is the piece of the URL that distinguishes that post. (SEO benefit)
 SQL Statement - SQL Израз
+(Web) Stack - Пакет Приложения за Web-Разработване
 Statment - Конструкция
 Subpanel - Дъщерен панел
 Tab - 
