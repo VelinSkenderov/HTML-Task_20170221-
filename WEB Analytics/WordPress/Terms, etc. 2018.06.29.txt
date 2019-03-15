@@ -38,7 +38,9 @@ WordPress.org - http://WordPress.org
 http://codex.wordpress.org/Glossary
 
 API - Application Programming Interface; Приложно-програмен интерфейс: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjbsoCwhuLbAhWGAJoKHdIrCBIQFggmMAA&url=https%3A%2F%2Fbg.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25B6%25D0%25BD%25D0%25BE-%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B5%25D0%25BD_%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D1%2584%25D0%25B5%25D0%25B9%25D1%2581&usg=AOvVaw3OpkPIpNQr841X2kYBwZDj
-ssociative Array - Асоциативен масив
+Authentication - Удостоверяване на Клиенти/Потребители
+Associative Array - Асоциативен масив
+Authenticating Clients - Удостоверяване на Клиенти
 Auto-Incrementing - С автоматично увеличаващи се Стойности
 Access Modifier - 
 Backward Compatibility - Обратна съвместиост
@@ -46,12 +48,17 @@ Bookmark - Показалец, Отбелязвам с отметка, Отмятам
 Breal down - Анализирам/Декомпозирам
 Cache - Кеш, Буфер
 Call - Обръщение; Рекурсия (вж. )
+Catch up - Догонвам
 Chunk of JavaScript - Блок от Код JavaScript
+(When the Connection) Closes - (При) Затрваряне на (Конекцията)
+COMPREHENSIVE Literature - ИЗЧЕРПАТЕЛНА Литература
 Conditional Tags - Условни Tag-ове
+(When the Connection) Closes - (При) Затваряне (на Конекцията)
 Content Management Workflow - Процес на Управление на Съдържанието
 Contributor - Участник
 Core Functionality - Базова функционалност
 CPU Load - Натоварване на Процесора
+CPU Usage - (Използван/-а) Процесорен/-на Ресурс/Мощ
 Custom Field - Поле за попълване
 Custom Post Types - Индивидуални типове Post-ове
 Database Schema - Схема/Дизайн на БД.
@@ -61,21 +68,30 @@ Dealing with Errors - Контрол на Грешките
 Debugging - дебъгване; откриване и отстраняване на грешки
 	    1. намиране и отстраняване на дефекти (в оборудване, в компютърна програма); 2. отстраняване на подслушвателни устройства.
 	    1. отладка; 2. to debug - находить и устранять · отлаживать
+Dedicated (User/-s) - Конкретен/-ни Потребител/-и
 Deprecated Functions - Неподдържани Функции
+Directory Structure - Структура (от) Директории
+Distributed Configuration - Разпределена Конфигурация
 Don't Hack the Core! - Не увреждайте Ядрото!
+Embed(-ding) - Интегриране
 Encrypted - Криптиран
 Encryption Library - Криптографска библиотека
 Entry Point - Входна точка
+Event Loop - Цикъл Събития
 Equally important - Не по-маловажно е това, че
 Execute against - Изшълнява спрямо
+Features - Функционални възможности
+File System - Файлова система
 First Conditional, Zero Conditional - Първично Условие, Вторично Условие
 Flow of the Loop - Тяло на Цикъла ()
 Footer - Долен Колонтитул
 Formatting Array - Форматиращ участък
+Geolocation - Геолокация
 Getting Started with - Да започнем с
 Global Query varable - 
 Granularity of Data - Гранулираност на Данните (Ниво на Детайлност)
 Hack - Внасям зловредни изменения
+(Server) Hardening - Редуциране на Уязвимостта (на Сървъра); вж.https://en.wikipedia.org/wiki/Hardening_(computing)
 Hash - Хеш/(Механично) Преобразуване на Символи въз основа Таблица на съответствия/Набор регламентирано еднозначно съответстващи Символи
 Header - Заглавен ред/Горен Колонтитул
 Heavy Lifting - Черната работа
@@ -85,64 +101,89 @@ Index on Fields - Индекси по Полета
 Inner Join - Вътрешно съединение
 Instance - Инстанция/Проявление
 Instantiate - Инстанциирам
+Interpreted Language - Интерпретаторен език
 Invocation (of the Loop) - Извикване (на Цикъла)
 Joining Field - Свързващо Поле
+Keep-Alive (Connection/-s) - (Връзка/-и), които следва да не бъдат прекъсвани / трябва да бъдат приоритетно обслужвани
+(Internet) Landscape - (Интернет-) Инфраструктура
 Late Binding/Dynamic Binding - Динамично (късно) свързване
 LIKE Modifier - Модификатор за достъп LIKE
+Loging - Log-ване, Логване, Влизане на Потребители
 Logical Flow - Логическа последователност/Логическа ораганизация
 Loop Flow - Поток на Цикъла/Програмата
+Looping Mechanism - Начини за Прихващане
+
 many-to-many relationship - Релация "много към много"
 Map-вам - Пренасочвам/Трансформирам, Съотнасям
 Main Content Area - Област с Основно съдържание
 Memebership Table - Таблица принадлежности, Таблица на съответствия
 Method Function - Метод Функция, Метод (Функция), Метод/Функция
+Multi-Processing (Module) - Многопроцесен (Модул)
 Multi-Valued Relationship - Многостойностна релация, Многостойностна зависимост
 Nonce - Неопределеност
 Namespace - Пространство от имена
+Non-Blocking () - Не-Блокиращ
 Numerically Indexed Array - Цифрово-индексиран Масив
 Object Class Functions - Функция на Клас обекти
 Object Properties - Свойства на Обекта
 one-to-one relationship - Релация "един към един"
 Paging - Обхождане/Скролиране страница по страница; Обхождане на Страници
+Performance PRofile - ПРофил за Ефективност ()
 Parse - Анализирам/Преобразувам, Трансформирам
 Permalinks - Постоянни URL-Адреси
 Permalnk Tail - 
+Permission - 
 Pieces of Code - Участъци от Код
 Plugin - Плъгин
 Point of Execution - Фаза на Процеса
 Premium - Първокласен
+(Language) Processor - (Езиков) Процесор
 Property - Свойство
+Forward/Reverse Proxy - 
 Query - Заявка
 Query against the Data - Заявки към Данните
 Query Funkction - Заявка Функция
 Query Object - Обект на Заявка
 Pass - Вмъквам
+Raw Performance - Чиста/Пряка Производителност (когато Процесорът обработва ЕДИНСТВЕНО Текущото Задание)
+Regular Expression/-a - Стандартизирани Словосъчетания при Търсене
 Relationship - Релация, Съотнасяне, Взаимовръзка
 Result Set - Група резултати
 Return Value - Върната стойност
 Revisons - Корекции, Преработки, Последователни Версии/Проверки, Последващи Версии/Проверки
+Rewriting (URLs) - Пренаписване на URL-Адреси
 Search Box - Поле за търсене
 Selection Set - Множество Базови точки
 Selection Variable - Селектирана променлива
+Set aside - Оставям/-ен на втори план
 Set someting into something - Поставям нещо някъде (на мястото му).
 Shortcode - Кратки Кодове ()
 Sidebar - Меню за Навигация/Страничен панел
 Slug - A slug is the piece of the URL that distinguishes that post. (SEO benefit)
-SQL Statement - SQL Израз
+SQL Statement - SQL Израз/Конструкция
 (Web) Stack - Пакет Приложения за Web-Разработване
 Statment - Конструкция
+(Database) Storage Engine - Машина за Съххранение (на Базата-данни)
+(Media) Streaming - Поточно предаване (на Медия)
 Subpanel - Дъщерен панел
+Swap-out - (computing) To transfer (memory contents) into a swap file./Буферирам
 Tab - 
 Table Details - Описание на Таблицата/Таблична структура
 Taxonomy Table - Таксономична Таблица
 Teaser - Натрапчив парафраф
 The Loop will continue while - Цикълът продулжава, докато
+Thread Pool - Банка/Пул/Набор от Нишки (https://ff.tu-sofia.bg/AdvJava/ThreadGroup/ThreadGroup.html/zdrasti.info/kratko-sdrjanie-v3.html?page=43/https://support.microsoft.com/bg-bg/help/2978030/user-mode-thread-pool-reliability-improvements-for-multi-node-systems)
+Thread-Safe - С/Поддържащ Многонишкова архитектура
+(Single-)Threaded (Server) - (Едно-)Нишков (Сървър)
 Trip through the Loop - Изпълнение на Цикъла
 Troubleshoot - Проследявам за Геешки/Проследявам Грешките в/Отстранявам тесните места в/Отстранявам проблемните области в
+URI (Uniform Resource Identifier) - Унифициран Идентификатор на Ресурс (https://bg.wikipedia.org/wiki/URI)
+URL Rewrites - Пренаписване на URL-Адреси
 Value Passing through an Array - Стойност, преминаваща през Масив
 Variable Object - Обект-Променлива
 Widget - Притурка, Джаджа
 WordPress Developer Community - Общност Разработчици на WordPress
+Worker Process - ПРоцес на Обработка
 
 Критерии ЗА Заявка
 Параметри НА/В/КЪМ Заявката
