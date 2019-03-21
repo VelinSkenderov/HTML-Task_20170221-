@@ -1,0 +1,5 @@
+Main Page - URL:
+https://dev.mysql.com/doc/refman/8.0/en/
+
+Download PDF (A4), 45.2Mb - URL:
+https://downloads.mysql.com/docs/refman-8.0-en.a4.pdf
