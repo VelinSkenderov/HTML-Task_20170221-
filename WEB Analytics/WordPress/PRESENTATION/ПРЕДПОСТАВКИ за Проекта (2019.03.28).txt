@@ -1,0 +1,13 @@
+ПРЕДПОСТАВКИ за Проекта:
+
+01. Windows 10
+02. XAMPP Development Stack (https://www.apachefriends.org/download.html)
+03. MySQL (https://www.mysql.com/downloads/; с него ще заменим MariaDB-то в XAMPP - по препоръки на WordPress; вж. https://odan.github.io/2017/08/13/xampp-replacing-mariadb-with-mysql.html)
+04. Nginx Web-Server (nginx.org/en/docs/windows.html; ще го инсталираме ПРЕДИ Apacheто от XAMPP-а: в Роля на Reverse Proxy; вж. https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
+05. WordPress (https://wordpress.org/download/)
+06. Notepad++ (https://notepad-plus-plus.org/download/)
+07. Visual Studio 2012 (https://my.visualstudio.com/Downloads?q=visual%20studio%202012&wt.mc_id=o~msft~vscom~older-downloads)
+08. Visual C++ Redistributable (https://www.microsoft.com/en-us/download/confirmation.aspx?id=30679; изисква се от позиция 8.)
+09. Libre Office (https://www.libreoffice.org/download/download/)
+10. GIMP 2 (https://www.gimp.org/news/2018/04/27/gimp-2-10-0-released/)
+11. LaTeX (https://latex.org/forum/app.php/page/download)
