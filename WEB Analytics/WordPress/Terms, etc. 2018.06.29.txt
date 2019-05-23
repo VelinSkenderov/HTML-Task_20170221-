@@ -37,12 +37,10 @@ http://codex.wordpress.org/Glossary#Text_editor
 WordPress.org - http://WordPress.org
 http://codex.wordpress.org/Glossary
 
-(using) 32bit Floating Point - (С Представяне във Формат: ") 32 бита с плаваща запетая (".)
 (FTP) Account - (FTP) Акаунт / Абонамент
 Actions - Действия / Дейности
 Activity Monitoring - Проследяване Действията на Потребителите / Проследяване на Събитията
 		      (https://digitalguardian.com/blog/what-user-activity-monitoring-how-it-works-benefits-best-practices-and-more; https://pubs.vmware.com/NSX-6/index.jsp?topic=%2Fcom.vmware.nsx.admin.doc%2FGUID-9F7B45C1-FDFD-4E3B-96AD-30EFCB539680.html)
-(Photoshop) Adjustment Layers - Слоеве за Настройка / Корекционни Слоеве (във Photoshop)
 Advanced - Усъвършенстван, Напреднал, Прогресивен, Добре развит
 (Security) Alerts - Оповестяване на Потребителите
 Aliasing (Signal Processing) - Заместване / Видоизменение
@@ -54,22 +52,16 @@ Aliasing (Signal Processing) - Заместване / Видоизменение
 					  (http://sagabg.net/PCMagazine/article-272.html)
 Aliasing - Изкривявания / Смущения
 (Изображения) Aliasing Artifacts - Дообработка, Изчистване на Смущенията
-(Lens) Aperture - Диафрагма (във Фотографията)
 API - Application Programming Interface; Приложно-програмен интерфейс: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjbsoCwhuLbAhWGAJoKHdIrCBIQFggmMAA&url=https%3A%2F%2Fbg.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25B6%25D0%25BD%25D0%25BE-%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B5%25D0%25BD_%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D1%2584%25D0%25B5%25D0%25B9%25D1%2581&usg=AOvVaw3OpkPIpNQr841X2kYBwZDj
 (client-Server) Architecture - Архитектура (Клиент-Сървър)
 Audit Log - Журнал на ВСЯКА от Промените в нашия Web-Сайт
 Authentication - Удостоверяване на Клиенти/Потребители
-Author Attribution - Сведения за / Указване на / Позовавае на Автора
 Associative Array - Асоциативен масив
 Authenticating Clients - Удостоверяване на Клиенти
 Authentication - Идентифициране / Верификация/Верифициране / Удостоверяване
 Auto-Incrementing - С автоматично увеличаващи се Стойности
-Access Modifier - Модификатор на Достъпа
-babl - Динамична Библиотека за Транслация „всеки-към-всеки“ на Pixel-Формати.
-Backend - "Скрита/-та на Сървъра"/Сървърна(-та) част на дадено Приложение (касаеща: php,
-	  asp.net, asp.net mvc, C#, java
-	  /с уговорка, че C# и java може да се използват и за frontend, ако става дума за
-	  Windows приложения/.)
+Access Modifier - 
+babl - 
 Backward Compatibility - Обратна съвместиост
 Best Practices - Най-добри Практики
 (Program) Binary - Двоичен код / Код (на Програма)
@@ -78,20 +70,11 @@ BitMap - Растерна Графика
 Boilerplate Code - Повтарящ се/Дублиран / Многократни повторения на Код (https://en.wikipedia.org/wiki/Boilerplate_code)
 Bookmark - Показалец, Отбелязвам с отметка, Отмятам
 Breal down - Анализирам/Декомпозирам
-(Subject) Brightnbess - Яркост (на /даден/ Обект/-а)
-Bug - Грешка при Изпълнение на Компютърна програма
 Build(-ing) and Test(-ing) Software - Разработка и Тестване на Софтуер (https://bg.wikipedia.org/wiki/Разработка_на_софтуер и https://bg.wikipedia.org/wiki/Тестване_на_софтуер)
 Cache - Кеш, Буфер
 CAD () - Компютърен Дизайн
 Call - Обръщение; Рекурсия (вж. )
 Catch up - Догонвам
-Characteristic Curve - Характеристична Крива; визуален профил на Тоналната информация на
-		       Изображението
-Chatbot (Chat Bot) - Чат Бот: Компютърна програма, създадена, за да води разговор/да чати
-		     (буквално: да Беседва, Разговаря; от англ. Chat) с потребители хора,
-		     предимно чрез Интернет. Например: един Чат Бот може да отговаря на
-		     въпроси или да извършва действия, следвайки инструкциите на потребителите.
-		     (вж. на: https://evs-translations.com/blog/bg/chat-bot/)
 Chroma - Оцветеност на дадена Област, считана като Дял от Яркостта на аналогично Осветена
 	 Област, изглеждаща бяла или на такава със силно Излъване
 Chunk of JavaScript - Блок от Код JavaScript
@@ -99,22 +82,19 @@ Chromatic Adaptation - Цветова/Хроматична адаптация
 Chromatic Adaptation Model - Адаптивен Цветови модел
 Chromatically - Хроматически
 Chromaticity - Хроматичност
-Chrominance - Цветност (вж. http://www.bds-bg.org/bg/standard/?natstandard_document_id=623)
-CIE Standard Observer - "Стандартен наблюдател" по критериите на Лабораторнията на Международната Комисия по Осветление CIE Lab (International Commission on Illumination/CIE)
+Chrominance - Оцветеност
 CLI - Command Line Interface / Интерфейс с Команден ред
 			       (https://bg.wikipedia.org/wiki/Интерфейс_с_команден_ред)
 Clipboard Manager - Клипбор Мениджър
 (When the Connection) Closes - (При) Затрваряне на (Конекцията)
 Code Editor - Редактор НА Код
-(Source-)Code - (Source-/Основен) Код/Текстът на Програмата
-(Background) Color - Фонов Цвят / Цвят на Фона / Цвят в Заден план
+(Source-)Code - (Source-)Код/Текстът на Програмата
 Color Appearance - Усещане за Цвят/Цветово усещане
 Color Channel - Цветови Канал
 Color Component - Цветови компонент
-Color Information - Информация за Цветовете
 Color Managament - Управление на Цветовете и Цветовите пространства
 Color Model - Цветови модел
-Color Profile - Цветови Профил
+Color PRofile - Цветови Профил
 Color Property - Свойства на Цветовете / Цветови свойства ()
 Color Space - Цветово пространство
 	     (https://bg.wikipedia.org/wiki/Цветово пространство)
@@ -124,12 +104,10 @@ Color Temperatute - Температура на Цвета / Цветна Температура
 (Color) Computation - 
 Color (Temperature) - Температура ма Цвета
 (Input/Output) Color Value - (Зададена/Ктайна) Стойност на Цвета / Цветова стойност
-Colorfulness - Оцветеност / Оцветяване / (Цветова) Палитра
 Command Line Interface - Интерфейс с Коменден ред
 			 (https://bg.wikipedia.org/Интерфейс_с_команден_ред)
 COMPREHENSIVE Literature - ИЗЧЕРПАТЕЛНА Литература
-(eXperimental) Computing (Facility) - (Средство/Съоръжение) за (Експериментална/-и)
-				      Компютърна/-и Обработка/Изчисления
+Computing - 
 Conditional Tags - Условни Tag-ове
 Consistent (Way) - (По) Надежден (начин)
 (Cross-Site) Contamination - (Междусайтова) Скриптинг-Атака
@@ -158,7 +136,6 @@ Cut Buffer - (Cut) Буфер за Обмен на Данни
 Database Schema - (Моделна) Схема/Дизайн на БД.
 		  Архитектура на База-данни; Концептуална схема на База-данни
 		  Външна схема на База-данни/Вътрешна схема на База-данни
-(Procedural) DataBase - (Процедурна) База-Данни
 DDoS Услуга - Дистрибутирана Атака за Спиране на Достъпа на Целевите потребители до ВАЖНА Информация или определен Сайт
 Dealing with Errors - Контрол на Грешките
 Debugger - Дебъгер (Програма за проследяване Процеса на Изпълнение на Компютърна програма;
@@ -172,7 +149,6 @@ Density - Плътност на покритие (за Графично устройство)
 Deprecated - Свален от Поддръжка
 Deprecated Functions - Неподдържани Функции
 (Image) Depth - Дълбочина на ИЗображението (вж. на: )
-(Bit) Depth - Дълбочина на Цвета / (Битова) Дълбочина
 Desktop Entry - Данни, извеждани на Екрана
 Desktop Environment - Десктоп Среда / Графична Среда / Графична Десктоп Среда
 Desktop Publishing - Електронни Издатрелски системи
@@ -180,7 +156,6 @@ Desktop Publishing - Електронни Издатрелски системи
 Device Independent (bitmap) - Независим от Устройството / Всеобщо-съвместим (bitmap)
 Directed Acyclic Graph - Ориентиран ацикличен граф
 Directory Structure - Структура (от) Директории
-(Source) Directory - (Главна) Директория (с Данни), от която се Достъпват Данните
 Display Filter - Филтър за Показване
 Distributed Configuration - Разпределена Конфигурация
 DNS / Domain Name Service - Услуга за Регистрация на Домейн
@@ -198,10 +173,8 @@ Entry Point - Входна точка
 Event Loop - Цикъл Събития
 Equally important - Не по-маловажно е това, че
 Execute against - Изшълнява спрямо
-Exposure Value - Време за Експозиция (във Фотографията)
 Extended (Window Manager) Hints - Детайлни Насоки (във връзка с/Относно Графичния Потребителски интерфейс за Управление на Прозорците)
 (File) Extension - Файлово Разширение, Разширение на/в Името на Файл
-(...'s) Facility - Съоръжени/Средство (на/в..., ...за)
 Features - Функционални възможности
 (Distributable) File - (Дистрибутивен) Файл
 (Object) File - (Обектен) Файл
@@ -293,21 +266,19 @@ Keep-Alive (Connection/-s) - (Връзка/-и), които следва да не бъдат прекъсвани / 
 Late Binding/Dynamic Binding - Динамично (късно) свързване
 (Програмен език C) (Non-)Linear Computation - (в Прогреамния език C) (Не-)Линейно Изчисление
 					      (вж. на )
-(Perceived) Light - Възприятие за Светлина / Светлина като възприятие / (Възприемана) Светлина (вж. в )
-(Linear) Light - (Линейна) Светлина
-		 (https://encyclopedia2.thefreedictionary.com/linear+light+source)
+(Perceived) Light - (Възприемана) Светлина (вж. в )
+(Linear) Light - 
 (Color) Lightness - Яркост, а НЕ Осветеност (на Цвета)
 Like Modifier - Модификатор за достъп LIKE
 (в Програмирането) Linker - Свързващ Редактор (https://bg.wikipedia.org/wiki/Свързващ_редактор)
 Linking File - Обектен Файл / Свързващ Файл
-	       (вж. на: https://bg.wikipedia.org/wiki/Компилатор, т.Окончателно създаване на код)
-Line Pairs per Millimetre (for Objectives) - Допустим Дефокус / Двойки линии на милиметър (при Фотообективи)
+	       (вж. на: https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%BE%D1%80, т.Окончателно създаване на код)
 Loging - Log-ване, Логване, Влизане на Потребители
 Logical Flow - Логическа последователност/Логическа ораганизация
 Look-up Table - (Референтна) Таблица със Съответствия
 Loop Flow - Поток на Цикъла/Програмата
 Looping Mechanism - Начини за Прихващане
-Luminance - Осветеност / (във Фотографията:) Настройка Осветеност
+Luminance - Осветеност
 Luminance, Relative - Относителна Осветеност
 Magenta - 
 Mailer Script - Скрипт за Разпращане на Съобщения
@@ -334,32 +305,24 @@ Open sTandard - Отворен стандарт, напр.: PDF (https://bg.wikipedia.org/wiki/PDF)
 		(https://en.wikipedia.org/wiki/Open_standard; вж. https://bg.wikipedia.org/wiki/PDF)
 (Input/Output) Pad - (Входен/Изходен) Буфер
 Paging - Обхождане/Скролиране страница по страница; Обхождане на Страници
-(Design) Pattern - Шаблон (за Дизайн)
 Performance Profile - Профил за Ефективност ()
 Parse - Анализирам/Преобразувам, Трансформирам
-PDB - База-данни Процедури (Procedural DataBase). PDB (База-данни Процедури) е НАЙ-Важният
-      Интерфейс за Достъп до Функциите за Обработване на Изображения в GIMP. Библиотека
-      libgimp предоставя възможност с определени Фукнции от Базата-Дани с Процедури PDB или да
-      добавяме Нови Функции към PDB.
 Permalinks - Постоянни URL-Адреси
 Permalnk Tail - 
 Permission - 
 Phishing (Software) - (Софтуер за) Посегателство върху Лични данни
 Pieces of Code - Участъци от Код
-Pixel Storage (Format) - (Формат за) Съхраняване на Графични елементи във вид на Пиксели
+Pixel Storage (Format) - (Формат за) 
 Plot (v.) - Нанасям / Начертавам (на Разпечатка, чертеж, Карта)
 Plugin - Разширение / Плъгин
 Point of Execution - Фаза на Процеса
 Premium - Първокласен
-Premultiplied Alpha (Channel) - (Канал с) Предварително Умножени Alpha-Пиксели
-				(https://www.gimp.org/docs/plug-in/appendix-alpha.html)
 Privacy - Поверителност
 (Language) Processor - (Езиков) Процесор
 Project Description - Описание на Проект
 Property - Свойство
 (Програмен Език C - to Define a) Property - (В Програмния Език C - Дефинирам) Свойство
 Forward/Reverse Proxy - 
-(Software) Quality Assurance - Осигуряване КАчеството на / Контрол над Качеството  (на Софтуера)
 Query - Заявка
 Query against the Data - Заявки към Данните
 Query Funkction - Заявка Функция
@@ -372,7 +335,6 @@ Ransomware - Рансъмуеър; Критирани вредителски програми (познати също като роугу
 	     Petya (https://www.avast.com/c-petya), Cerber (https://www.avast.com/c-cerber),
 	     Locky (https://www.avast.com/c-locky) и CryptoLocker (https://www.avast.com/c-cryptolocker).
 Raw Performance - Чиста/Пряка Производителност (когато Процесорът обработва ЕДИНСТВЕНО Текущото Задание)
-(to) Recall specific versions - (да се) Върна към конкретна (Предходна) Версия
 (Code) Refactoring - Преработка (на Код)
 Reference - Отправен / Препратка
 Regular Expression/-a - Стандартизирани Словосъчетания при Търсене
@@ -383,8 +345,6 @@ Release on the User's Side - Внедряване при Краен/-йния клиент
 Request - Заявка / Обръщение
 Result Set - Група резултати
 Return Value - Върната стойност
-Рeview - Ретроспективен Анализ
-Рeviews - Прегледи в Ретроспекция
 Revisons - Корекции, Преработки, Последователни Версии/Проверки, Последващи Версии/Проверки
 Rewriting (URLs) - Пренаписване на URL-Адреси
 Root (Directory) - Главна Директория
@@ -399,13 +359,10 @@ Security Question - Контролен въпрос
 (File) Section - Секция (на Файл/-а)
 Selection Set - Множество Базови точки
 Selection Variable - Селектирана променлива
-Self-Documenting - 
 Set aside - Оставям/-ен на втори план
 Set someting into something - Поставям нещо някъде (на мястото му).
 (System) Shell - Команден Интерпретатор
 Shortcode - Кратки Кодове ()
-Shutter (Time) - (Скорост) на Затвора / (Време за Спускане на) Затвора
-Side Efect - Страничен Ефект
 Sidebar - Меню за Навигация/Страничен панел
 Slug - A slug is the piece of the URL that distinguishes that post. (SEO benefit)
 Source-Code - Програмен Код / Source-Код / Софтуерен Код / Изходен Код
@@ -416,7 +373,6 @@ Source Tree - Дърво с Изходен Код / Дърво на Източника / Изходно дърво / (Дърво 
 Spot Color - Спот-цвят / Точков цвят
 SQL Statement - SQL Израз/Конструкция
 (Web) Stack - Пакет Приложения за Web-Разработване
-Standalone (Plugin) - Автономен (Плъгин)
 Statment - Конструкция
 (Database) Storage Engine - Машина за Съххранение (на Базата-данни)
 (Media) Streaming - Поточно предаване (на Медия)
@@ -432,51 +388,28 @@ The Loop will continue while - Цикълът продулжава, докато
 Thread Pool - Банка/Пул/Набор от Нишки (https://ff.tu-sofia.bg/AdvJava/ThreadGroup/ThreadGroup.html/zdrasti.info/kratko-sdrjanie-v3.html?page=43/https://support.microsoft.com/bg-bg/help/2978030/user-mode-thread-pool-reliability-improvements-for-multi-node-systems)
 Thread-Safe - С/Поддържащ Многонишкова архитектура
 (Single-)Threaded (Server) - (Едно-)Нишков (Сървър)
-(Image) Thumbnail - Миниатюра (за /Бърз/ преглед) на Изображение/-я)
-Tile - 
 Tip - Намек / Насока / Подсещане / Ориентир
 Tone Curve - Тонална крива / Крива на Тоналността
 Toolchain (Technologies) - (Техонлогии за формиране на) Единен Комплекс Развойни инструменти
 			   на определена Фаза (като: C-Компилтора GCC или binutils и
 			   glibc)
 (Highly) Transmutting (Area) - (Онласт,) Освобождаваща (Голямо количество Енергия)
-TRC (Tone Response Curve) - Крива на Тонално възприятие / Тонален Обхват
 Trip through the Loop - Изпълнение на Цикъла
 Troubleshoot - Проследявам за Геешки/Проследявам Грешките в/Отстранявам тесните места в/Отстранявам проблемните области в
 URI (Uniform Resource Identifier) - Унифициран Идентификатор на Ресурс (https://bg.wikipedia.org/wiki/URI)
 URL Rewrites - Пренаписване на URL-Адреси
 User Documentation - Потребителска документация
-UI (User Interface) - Абстрактна област 
-(Tonal) Value - (Тонална) Стойност
 Value Passing through an Array - Стойност, преминаваща през Масив
 Variable Object - Обект-Променлива
 Vendor Neutral - Необврзан с конкретен Доставчик
 (Industry) Vendors - Свързани(-те) с Бранша
 (Low Level) Virtual Machine - Виртуална Машина (на Ниско ниво)
-W3C - Консорциум на Глобалната Мрежа
 Web Browser - Web-Браузър
 Webmaster - Web-Администратор
 Weighted Sum - Претеглена Сума
 Widget - Притурка, Джаджа
-World Wide Web - Глобална(-та) Мрежа
 WordPress Developer Community - Общност Разработчици на WordPress
 Worker Process - ПРоцес на Обработка
-XML (eXtensible Markup Language) - Разширяем/Гъвкав (Мета-)Език за Маркиране
-XSL (eXtensible Stylesheet Language Family) - Семейство Гъвкави Езици за Представяне на XML-
-					      форматирани Документи
-					      Предписва КАК да бъде Структуриран даден Документ чрез
-					      Маркиране с Етикети (с markup language), Указва САМО
-					      Граматиката (по-конкретно: Синтаксиса) за Съхраняване
-					      Изгледа на Менюта (menu layout), Начални Инструкции
-					      (startup tips), Docbook Документи и др..
-XMP (eXtensible Metadata Platform) -  Гъвкава Платформа за Метаданни (eXtensible Платформа
-				      Метаданни). Този формат е проектиран, за да добавите
-				      информация във файл. XMP формат е проектирана така, че
-				      файлът може да чете всяка програма, включително и не
-				      работеща с XMP. XMP се използва в PDF, фотография и при
-				      Редактиране на Изображения.
-				      (https://books.google.bg/books?id=r4C5NTwKwVsC&pg=PA591&lpg=PA591&dq=%22extensible+stylesheet+language%22+%2B+%D0%B5%D0%B7%D0%B8%D0%BA+%2B+%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B8&source=bl&ots=mWfJeyjYqk&sig=ACfU3U0t4Dbah5Hu88ZAtzfaI7oxHIQ6xQ&hl=en&sa=X&ved=2ahUKEwi4uq-3mrHiAhWnyqYKHU4BBUMQ6AEwAHoECAgQAQ#v=onepage&q=%22extensible%20stylesheet%20language%22%20%2B%20%D0%B5%D0%B7%D0%B8%D0%BA%20%2B%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B8&f=false)
-				      (http://quosub.tutkrabov.net/articles/format-xmp.html)
 
 Критерии ЗА Заявка
 Параметри НА/В/КЪМ Заявката
