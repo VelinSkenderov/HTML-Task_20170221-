@@ -1,0 +1,58 @@
+Download Psge - URL:
+https://www.downloadcrew.com/article/32585-virtualxp_free
+
+Download - URL:
+javascript:checkDownload( '34201', '?act=software.download&id=34201&t=1559409648&c=8d2af4c4422e5323b4af9f2175d43331117ded08', false )
+
+
+VirtualXP Free 1.0
+Keep your old XP install running after switching to a new PC
+
+License: Free, for personal-use only 
+Operating Systems: Windows Server, Windows XP 
+Requirements: Windows Server 2003 or XP
+ 
+Languages: English 
+Software Cost: Free  
+Date Updated: 04 September 2014 
+Watchlist:  Add download to my watchlist  
+Downloads To Date: 3696 
+Developer: Farstone 
+RSS News Feed:  
+Twitter Feed: http://twitter.com/FarStoneTech  
+Facebook: http://www.facebook.com/FarStoneTechnology  
+ 
+
+If you’re still clinging on to your old Windows XP machine or installation, then it really 
+is time to upgrade to a new machine. For all the prep and research you do, how can you be 
+sure all your data will come across, or that you’ll be able to use trusted applications in 
+Windows 7 or later?
+
+VirtualXP provides you with a neat and elegant solution to the problem: it converts your 
+existing Windows XP installation into a virtual hard drive, which you can then set up and 
+use on your new PC using a virtualisation package that supports the VHD format (Virtual PC 
+is the recommended choice).
+
+These programs allow you to run virtual instances of Windows safely in their own window, 
+just as if you were still sat at your old PC. Your data, settings and programs are all 
+preserved, so nothing is lost or left behind.
+
+It’s simple to use – once installed, fire up the program – if prompted, click to download 
+any required components. Once done, click the "Immigrate XP to VM" button (Farstone 
+betraying its non-English origins with that particular mistranslation). After a short 
+pause, you’ll see a list of drives and partitions, with your Windows partition already 
+selected. If you want to include other partitions (say a data drive) you can do so here.
+
+Now it’s a simple case of clicking Browse – navigate to a suitable folder (typically on an 
+external drive) – and click Start. The imaging process can take some time, but once 
+complete you’ll have a virtual copy of your Windows XP in VHD format, ready for importing 
+into any virtual application that can read VHD files, and ensuring you don’t lose touch 
+with your old PC. Take our advice though - make sure it works before you ditch your old 
+computer.
+
+Note VirtualXP is free for personal use only – a commercial license can be purchased for 
+$28.
+
+Verdict:
+A simple and fuss-free way of ensuring your old apps and files don’t get left behind when 
+you finally move on from Windows XP.
