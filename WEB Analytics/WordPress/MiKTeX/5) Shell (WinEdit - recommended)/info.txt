@@ -1,0 +1,54 @@
+Main Page - URL:
+http://www.winedt.com/
+
+Download Page - URL:
+http://www.winedt.com/download.html
+
+Downloads and Links
+On this page you'll find links to all files you need to download in order to make WinEdt (and 
+TeX) fully operational on your Windows. After downloading and installing WinEdt you may want 
+to check and download available dictionaries (word lists), and add-ons which provide 
+additional functionality...
+
+
+New: WinEdt 10.3
+To install WinEdt 10.3 click on the link below and follow the instructions:
+
+WinEdt 10.3 (64-bit) [Build: 20180507] (winedt103-64.exe 9.2 MB):
+ http://www.winedt.com/download/winedt103-64.exe
+WinEdt 10.3 (32-bit) [Build: 20180507] (winedt103-32.exe 8.9 MB):
+ http://www.winedt.com/download/winedt103-32.exe
+
+Quick Guide
+You are strongly advised to take a look at the new, heavily illustrated Quick Guide. Its LaTeX sources are also available for download in a zipped archive:
+
+QuickGuide.pdf  (Updated: 2017-04-13 Size: 2.3 MB):
+ http://www.winedt.com/doc/QuickGuide.pdf
+QuickGuide.zip   (Updated: 2017-04-13 Size: 2.4 MB):
+ http://www.winedt.com/doc/QuickGuide.zip
+
+WinEdt FAQs
+Below is a link to frequently asked questions about WinEdt. First-time users will benefit by 
+taking a quick look (rather than digging directly into WinEdt's documentation which new users 
+might find intimidating) - WinEdt FAQs  (Updated: 2016-03-21):
+http://www.winedt.com/FAQs.html
+
+Older versions of WinEdt
+Older versions of WinEdt are still available to users that for some reason cannot or do not want to upgrade to the latest version:
+WinEdt Archives:
+http://www.winedt.com/FAQs.html
+
+WinEdt.org: Dictionaries, Additional Macros and Configurations
+www.winedt.org (WinEdt's Community Site)
+
+Links to other Home Pages containing TeX related material
+CTAN: Comprehensive TeX Archive Network:
+ http://www.ctan.org/
+TUG: TeX Users Group:
+ http://www.tug.org/
+MiKTeX's Home Page:
+ http://www.miktex.org/
+TeX Live Home Page (TUG):
+ http://www.tug.org/texlive/
+LaTeX Community Forum:
+ http://latex-community.org/
