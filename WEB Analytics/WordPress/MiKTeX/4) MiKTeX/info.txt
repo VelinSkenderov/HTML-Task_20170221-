@@ -1,0 +1,19 @@
+Main Page - URL:
+https://miktex.org/download
+
+Install on Windows
+
+Installer
+To install a basic TeX/LaTeX system on Windows, download and run this installer.
+
+Please read the tutorial, if you want step-by-step guidance:
+https://miktex.org/howto/install-miktex
+
+Date:		6/11/2019
+File name:	basic-miktex-2.9.7100-x64.exe
+Size:		194.11 MB
+SHA-256:	9aa26669c0cdf1b964829058d74aec2561270b22e4cc7ac43b1baa77cee8f26d
+
+
+Download - URL:
+https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7100-x64.exe
