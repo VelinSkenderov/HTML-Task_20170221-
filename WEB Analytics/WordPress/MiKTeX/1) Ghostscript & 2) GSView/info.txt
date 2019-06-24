@@ -1,0 +1,36 @@
+Main Page - URL:
+http://www.cs.wisc.edu/~ghost/
+http://pages.cs.wisc.edu/~ghost/
+
+
+Download Page - URL:
+https://www.ghostscript.com/download/gsdnld.html
+
+
+Ghostscript, Ghostview and GSview
+This was the home page for Ghostscript, an interpreter for the PostScript language and for PDF, and related software and documentation.
+
+The ghostscript (https://www.ghostscript.com/) home page is now https://www.ghostscript.com/
+
+Ghostscript Downloads:
+ https://www.ghostscript.com/download/gsdnld.html
+Ghostscript Documentation:
+ https://www.ghostscript.com/doc/current/Readme.htm
+Artifex GSView 6 - a previewer for MS-Windows, Linux and Apple OS X
+ https://gsview.com/
+Ghostgum GSview 5:
+ http://www.ghostgum.com.au/software/gsview.htm
+ an old previewer for MS-Windows. There is no further development planned
+ for this version. For any enquires about this software contact Ghostgum Software:
+ http://www.ghostgum.com.au/
+epstool for adding and removing DOS EPS previews
+ http://www.ghostgum.com.au/software/epstool.htm
+RedMon - Redirect a Windows printer port to Ghostscript.
+ http://www.ghostgum.com.au/software/redmon.htm
+Last update 2018-08-11
+
+
+Ghostscript 9.27 for Windows (32 bit)	Ghostscript AGPL Release:
+ https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs927/gs927w32.exe
+Ghostscript 9.27 for Windows (64 bit)	Ghostscript AGPL Release:
+ https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs927/gs927w64.exe
