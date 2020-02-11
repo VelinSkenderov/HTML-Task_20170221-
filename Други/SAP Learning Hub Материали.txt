@@ -1,0 +1,23 @@
+Колеги,
+
+Това са курсовете, които ще са ни необходими на първо време в PDF формат от SAP Learning Hub:
+
+-	Business Processes in Management Accounting in SAP S/4HANA.
+SAP курс: S4F20
+ 
+-	Cost Object Controlling in SAP S/4HANA
+SAP курс: S4F25
+ 
+-	Management Accounting in SAP S/4HANA - Academy Part I - Part 1
+SAP курс: TS4F03_1
+ 
+-	Management Accounting in SAP S/4HANA - Academy Part I - Part 2
+SAP курс: TS4F03_2
+ 
+-	Management Accounting in SAP S/4HANA - Academy Part II - Part 1
+SAP курс: TS4F04_1
+ 
+-	Management Accounting in SAP S/4HANA - Academy Part II - Part 2
+SAP курс: TS4F04_2
+
+Ж. Велев
