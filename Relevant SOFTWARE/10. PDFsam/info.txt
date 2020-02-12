@@ -1,0 +1,38 @@
+Download PAge - URL:
+https://pdfsam.org/downloads/
+
+Download p URL:
+https://pdfsam.org/download-pdfsam-basic/
+
+Windows downloader (.exe) - URL:
+https://download6.pdfsam.org/get-app.aspx?configld=DECC253B-6466-450B-B829-296A7FBAB00A&uid=1007261&cmp=default&ref=pdfsam.org/in-app&wid=6848
+
+Download and install PDFsam Basic on Windows systems. It offers to try PDFsam Enhanced with two free modules to view and create PDF files
+
+
+A free, open source, platform independent software designed to split, 
+merge, mix, extract pages and rotate PDF files
+
+Learn more - URL:
+https://pdfsam.org/pdfsam-basic/
+
+PDFsam Basic, a free, open source, multi-platform software designed to split, merge, extract pages, mix and rotate PDF files. Not enough? Try out PDFsam Enhanced! 
+
+Download PDFsam Basic - URL:
+https://pdfsam.org/download-pdfsam-basic/
+
+PDF merge
+
+Merge is the most used PDFsam Basic module and lets you combine PDF files together
+Page ranges
+
+Input PDF files can be merged completely or partially. A page selection can be set in the form of comma separated page intervals (Ex. 1-10, 14, 25-) letting you specify what pages you want to merge for every input PDF file
+Bookmarks
+
+Set what to do with the bookmarks of the merged PDF files. You can merge them together, discard them to keep the resulting file smaller or create a new bookmarks tree with one entry for every merged PDF file
+AcroForms
+
+Set what to do with AcroForms when they are found in the input PDF file. You can discard them but also merge them into a new form or even merge them renaming fields with name clashes
+Table of contents
+
+Add a table of contents at the beginning of the generated PDF. A list of clickable entries will let you easily navigate through the merged PDF files 
