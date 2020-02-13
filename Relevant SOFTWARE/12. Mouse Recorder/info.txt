@@ -1,0 +1,28 @@
+Main Page - URL:
+https://www.mouserecorder.com/
+
+Download Now - URL:
+https://www.mouserecorder.com/download.php
+
+
+New version available!
+Macro Recorder is the succesor of Mouse Recorder with many new features:
+
+* Goto/Loop/Repeat actions to cycle or branch portions of a macro sequence.
+* Mouse position can be captured without affecting the controlled application.
+* Up to 999,999 repetitions.
+* Labels to add comments to actions.
+* Pixel detection with color tolerance option.
+* Compatible with HiRes ("retina") displays.
+* Many bug fixes and improvements.
+* Compatibility with PhraseExpress v14
+
+DOWNLOAD INSTALLER - URL:
+https://www.macrorecorder.com/MacroRecorderSetup.exe
+
+ 
+Download Mouse Recorder
+To download out-of-date Mouse Recorder, click the button below to download from Softpedia.com
+
+Mouse Recorder Premium is compatible with Windows 7/8/10
+IMPORTANT: This Mouse Recorder version is not PhraseExpress compatible. For PhraseExpress compatibility either update to PhraseExpress v14 in combination with Macro Recorder or use the out-of-date PhraseExpress Enterprise Edition v13 compatible Mouse Recorder.
