@@ -1,0 +1,62 @@
+MyPal 28.7.2 Browser Windows XP (2019.11.22)
+
+info:
+
+Download Page - URL:
+https://github.com/Feodor2/Mypal/releases
+
+
+mypal-28.7.2.win32.installer.exe
+https://github.com/Feodor2/Mypal/releases/download/28.7.2/mypal-28.7.2.win32.installer.exe
+mypal-28.7.2.win64.installer.exe
+https://github.com/Feodor2/Mypal/releases/download/28.7.2/mypal-28.7.2.win64.installer.exe
+Source code (zip)
+https://github.com/Feodor2/Mypal/archive/28.7.2.zip
+Source code (tar.gz)
+https://github.com/Feodor2/Mypal/archive/28.7.2.tar.gz
+
+
+
+(Save as PDF) Slimjet Browser for Windows XP & Vista (10.0.13.0, 2019.11.23)
+
+info:
+
+Download Page - uRL:
+https://www.slimjet.com/en/dlpage_xp.php
+
+Regular Installer (51.27MB, 2017-02-7) - URL:
+https://www.slimjet.com/en/postdl.php?xp=1&version=win32&type=exe
+If download doesn't start automatically, click here.
+https://www.slimjet.com/download.php?version=win32&type=exe&beta=&server=&xp=1
+
+You are downloading Slimjet 32-bit offline installer for Windows. Click here to select other versions
+https://www.slimjet.com/en/dlpage.php
+
+Portable version (42.94MB, 2017-02-7) - URL:
+https://www.slimjet.com/en/postdl.php?xp=1&version=win32&type=zip
+
+Download SlimJet - URL:
+https://www.slimjet.com/en/postdl.php?xp=1&version=win32&type=exe
+
+
+NOTE: If you are upgrading from a previous version of Slimjet portable, extract the new version into the same folder as the previous version to pick up the existing settings.
+
+Freeware License
+
+Slimjet Web Browser is released under the freeware license. It is free both for personal use and commerical use. It is free to be distributed over the internet and/or through offline distribution channels as long as it is kept in its original form without any change. Bundling Slimjet with other software in another installer is strictly prohibited.
+
+For Software Download Sites
+
+Please use this local download link:
+https://www.slimjet.com/download.php
+which automatically balance traffic between different servers if you wish to offer our free web browser for download on your web site.
+
+If your site supports PAD file, use the following PAD file to automatically check for version updates:
+
+PAD - URL:
+https://www.slimjet.com/pad.xml
+
+You can also find more detailed listing information about Slimjet here:
+https://www.slimjet.com/en/listing-info.php
+
+Thanks for spreading the words about Slimjet, the fastest free web browser for Windows!
