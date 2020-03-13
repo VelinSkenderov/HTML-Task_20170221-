@@ -1,0 +1,17 @@
+Misrosoft Windows [VErsion 10.0.18363.657]
+(c) 2019 Misrosoft Corporation. All rights reserved.
+
+C:\Users\Velin.Skenderov>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix . : bmsystems.local
+   LInk-local IPv6 Address  . . . . : 9856:6954:6954:a6f1:27e2%12
+   IPv4 Address . . . . . . . . . . : 192.168.23.113
+   Subnet MAsk. . . . . . . . . . . : 255.255.255.0
+   Default Gateway. . . . . . . . . : 192.168.23.254
+
+C:\Users\Velin.Skenderov>  
