@@ -1,0 +1,10 @@
+Main Page - URL:
+https://pdfsam.org/download-pdfsam-basic/
+
+Windows downloader (.exe):
+https://download6.pdfsam.org/get-app.aspx?configld=DECC253B-6466-450B-B829-296A7FBAB00A&uid=1007261&cmp=default&ref=pdfsam.org/in-app&wid=6848
+
+
+Download and install PDFsam Basic on Windows systems. It offers to try PDFsam Enhanced:
+https://pdfsam.org/try-pdfsam-enhanced/
+with two free modules to view and create PDF files
