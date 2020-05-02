@@ -1,0 +1,44 @@
+https://www.teamviewer.com/en-us/download/windows/
+
+Download QuickSupport - URL:
+https://download.teamviewer.com/download/TeamViewerQS.exe
+
+
+Immediate assistance:
+TeamViewer QuickSupport
+Optimized for instant remote desktop support, this small customer module does not require 
+installation or administrator rights — simply download, double click, and give the provided 
+ID and password to your supporter.
+
+
+Customize QuickSupport - URL:
+https://www.teamviewer.com/en/custom-modules/
+
+Custom Modules
+Generate customized TeamViewer modules that contain your own logo and text free of charge.
+Give a personal note to interactions with your customers.
+
+The TeamViewer Management Console contains many of the advanced features that make TeamViewer 
+such a powerful and versatile tool for remote support, remote access, and collaboration.
+Included among the features within the TeamViewer Management Console is the ability to 
+design and deploy customized customer modules.
+Log in with your TeamViewer account and get started today!
+
+Create custom module - URL:
+https://login.teamviewer.com/DesignAndDeploy.aspx?_ga=2.250859663.821315693.1588404842-60430435.1588404842
+
+Custom QuickSupport
+Your customers use your customized QuickSupport module to allow access to their computers
+ without having to install TeamViewer.
+Include your company logo and custom colors
+Add your own personalized title and text
+Automatically add users to your Computers & Contacts list
+Enable a customer satisfaction form at session close
+Create an SOS button on your customer’s desktop
+Allow customers to start an immediate chat
+
+Custom QuickJoin
+Enable people who don’t have TeamViewer installed to still participate in your meetings.
+Include your company logo and custom colors
+Add your own personalized title and text
+Enter the data of scheduled meetings so participants can automatically join
