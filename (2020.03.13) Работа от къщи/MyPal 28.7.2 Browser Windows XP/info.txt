@@ -1,0 +1,12 @@
+Download Page - URL:
+https://github.com/Feodor2/Mypal/releases
+
+
+mypal-28.7.2.win32.installer.exe
+https://github.com/Feodor2/Mypal/releases/download/28.7.2/mypal-28.7.2.win32.installer.exe
+mypal-28.7.2.win64.installer.exe
+https://github.com/Feodor2/Mypal/releases/download/28.7.2/mypal-28.7.2.win64.installer.exe
+Source code (zip)
+https://github.com/Feodor2/Mypal/archive/28.7.2.zip
+Source code (tar.gz)
+https://github.com/Feodor2/Mypal/archive/28.7.2.tar.gz
