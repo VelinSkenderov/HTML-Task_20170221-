@@ -1,9 +1,0 @@
-Download Page - URL:
-https://www.academia.edu/11160129/Emotional_Intelligence-Daniel_Goleman_pdftsuff_blogspot_com_
-
-Download with Google - URL:
-https://accounts.google.com/signin/oauth/identifier?response_type=permission%20id_token&scope=openid%20profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly&openid.realm&redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.academia.edu%3Fid%3Dauth286778&client_id=331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b&ss_domain=https%3A%2F%2Fwww.academia.edu&gsiwebsdk=shim&o2v=1&as=n6V0JhVwQd-fr0rOSUN7UA&flowName=GeneralOAuthFlow
-
-https://www.academia.edu/11160129/Emotional_Intelligence-Daniel_Goleman_pdftsuff_blogspot_com_
-Emotional Intelligence-Daniel Goleman [pdftsuff blogspot com]
-Download - URL:
